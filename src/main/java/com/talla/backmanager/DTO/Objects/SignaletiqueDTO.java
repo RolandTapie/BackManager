@@ -1,4 +1,4 @@
-package Dette.DTO.Objects;
+package com.talla.backmanager.DTO.Objects;
 
 import lombok.Data;
 

@@ -1,9 +1,15 @@
-package Dette.Services.Service;
+package com.talla.backmanager.Services.Service;
 
 
-import Dette.Entites.Classes.*;
-import Dette.Repositories.*;
-import Dette.Services.Interfaces.ILireInventaireDette;
+import com.talla.backmanager.Entites.Classes.Banque;
+import com.talla.backmanager.Entites.Classes.Commun;
+import com.talla.backmanager.Entites.Classes.Echeance;
+import com.talla.backmanager.Entites.Classes.Emprunt;
+import com.talla.backmanager.Repositories.BanqueRepository;
+import com.talla.backmanager.Repositories.CommunRepository;
+import com.talla.backmanager.Repositories.EcheanceRepository;
+import com.talla.backmanager.Repositories.EmpruntRepository;
+import com.talla.backmanager.Services.Interfaces.ILireInventaireDette;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

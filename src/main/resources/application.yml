@@ -1,7 +1,6 @@
 chemin:
   dette:
     inventaire: "C:/Users/Liege/Downloads/Inventaire"
-
 spring:
   output:
     ansi:
@@ -15,4 +14,7 @@ spring:
     show-sql: false
     hibernate.ddl-auto: update
   profiles:
-    active:  @spring.profiles.active@
+    active: #aws
+#    active: @spring.profiles.active@
+application:
+  title: BackManager Roland TALLA

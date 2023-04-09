@@ -1,4 +1,4 @@
-package Dette.Services.Interfaces;
+package com.talla.backmanager.Services.Interfaces;
 
 public interface ILireInventaireDette {
 

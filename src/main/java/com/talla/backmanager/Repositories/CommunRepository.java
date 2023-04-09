@@ -1,6 +1,7 @@
-package Dette.Repositories;
+package com.talla.backmanager.Repositories;
 
-import Dette.Entites.Classes.Commun;
+
+import com.talla.backmanager.Entites.Classes.Commun;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

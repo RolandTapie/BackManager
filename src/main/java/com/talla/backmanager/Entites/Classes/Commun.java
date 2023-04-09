@@ -1,11 +1,10 @@
-package Dette.Entites.Classes;
+package com.talla.backmanager.Entites.Classes;
 
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-
-import javax.persistence.*;
 
 @Data
 @AllArgsConstructor
@@ -16,7 +15,7 @@ public class Commun {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    @ManyToOne (fetch = FetchType.LAZY)
+    @ManyToOne(fetch = FetchType.LAZY)
     Banque banque;
     private String dateCreation;
     private String numImmatriculation;
