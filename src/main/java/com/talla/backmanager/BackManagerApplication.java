@@ -1,7 +1,7 @@
 package com.talla.backmanager;
 
 import com.talla.backmanager.Configuration.ServiceConfig;
-import com.talla.backmanager.Services.Service.LireInventaireDette;
+import com.talla.backmanager.Services.Imports.Dette.LireInventaireDette;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

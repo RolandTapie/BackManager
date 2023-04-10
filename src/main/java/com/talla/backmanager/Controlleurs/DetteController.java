@@ -1,14 +1,13 @@
 package com.talla.backmanager.Controlleurs;
 
 
+import com.talla.backmanager.Controlleurs.Services.BanqueRequest;
+import com.talla.backmanager.Controlleurs.Services.EcheanceRequest;
 import com.talla.backmanager.DTO.Mappers.Convert;
 import com.talla.backmanager.DTO.Objects.BanqueDTO;
 import com.talla.backmanager.DTO.Objects.EcheanceDTO;
-import com.talla.backmanager.Entites.Classes.Banque;
-import com.talla.backmanager.Entites.Classes.Echeance;
 import com.talla.backmanager.Repositories.BanqueRepository;
 import com.talla.backmanager.Repositories.EcheanceRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -17,44 +16,43 @@ import java.util.stream.Collectors;
 @RequestMapping("api/v1/dette")
 @CrossOrigin("*")
 public class DetteController {
+    final Convert convert;
+    final BanqueRequest banqueRequest;
+    final EcheanceRequest echeanceRequest;
+    final EcheanceRepository echeanceRepository;
 
-    @Autowired
-    BanqueRepository banqueRepository;
+    public DetteController(BanqueRepository banqueRepository, EcheanceRepository echeanceRepository, Convert convert, BanqueRequest banqueRequest, EcheanceRequest echeanceRequest) {
+        this.echeanceRepository = echeanceRepository;
+        this.convert = convert;
+        this.banqueRequest = banqueRequest;
+        this.echeanceRequest = echeanceRequest;
+    }
 
-    @Autowired
-    EcheanceRepository echeanceRepository;
-    @Autowired
-    Convert convert;
 
     ////////////////////////banques/////////////////////////////////////////////////////
     @GetMapping("/Banques/All")
     List<BanqueDTO> getAllBanks(){
-        return banqueRepository.findAll().stream()
-                .map(f -> convert.map(f)).collect(Collectors.toList());
+        return banqueRequest.getAllBanques();
     }
     @GetMapping("/Banques/{nom}")
     List<BanqueDTO> getBanqueByNom(@PathVariable String nom ) {
-        return banqueRepository.findByNom(nom).stream()
-                .map(f -> convert.map(f)).collect(Collectors.toList());
+        return banqueRequest.getBanqueByNom(nom);
     }
 
     //////////////////////echeances//////////////////////////////////////////////////
     @GetMapping("/Echeances/All")
     List<EcheanceDTO> getAllEcheances(){
-        return echeanceRepository.findAll().stream()
-                .map(f -> convert.map(f)).collect(Collectors.toList());
+        return echeanceRequest.getAllEcheances();
     }
 
     @GetMapping("/Echeances/{numeroEmprunt}")
     List<EcheanceDTO> getEcheancesByNumEmprunt(@PathVariable  String numeroEmprunt){
-        return echeanceRepository.findByEmprunt_NumeroEmprunt(numeroEmprunt).stream()
-                .map(f -> convert.map(f)).collect(Collectors.toList());
+        return echeanceRequest.getEcheanceByNumEmprunt(numeroEmprunt);
     }
 
     @GetMapping("/Echeances/Date/{date}")
     List<EcheanceDTO> getEcheancesByDate(@PathVariable  String date){
-        return echeanceRepository.findByDateEcheance(date).stream()
-                .map(f -> convert.map(f)).collect(Collectors.toList());
+        return echeanceRequest.getEcheanceByDate(date);
     }
 
     /////////////////////////////comptabilisation////////////////////////////////////////////
