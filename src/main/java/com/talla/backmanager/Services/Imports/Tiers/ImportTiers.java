@@ -12,11 +12,12 @@ import java.util.Scanner;
 
 @Service
 public class ImportTiers {
+    final TiersRepository tiersRepository ;
     public ImportTiers(TiersRepository tiersRepository) {
         this.tiersRepository = tiersRepository;
     }
 
-    final TiersRepository tiersRepository ;
+
 
     public void execution(String source) throws FileNotFoundException {
 

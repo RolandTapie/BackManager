@@ -1,0 +1,427 @@
+911-58;Non-valeurs des emprunts de préfinancement;92;;D;O;17501;41303
+869-54;Ventes de titres à revenus fixes des entreprises privées;82;;R;O;28510;41800
+891-54;Ventes de titres à revenus fixes de l'autorité supérieure;82;;R;O;28510;41800
+893-54;Ventes de titres à revenus fixes des autres pouvoirs publics;82;;D;O;28510;41500
+912-52;Non-valeurs des emprunts à charge de l'autorité supérieure;92;;D;O;17141;41303
+913-52;Non-valeurs des emprunts à charge de tiers;92;;D;O;17211;41303
+866-51;Remboursement de participations par des entreprises privées;82;;R;O;28221;41800
+870-51;Remboursement anticipé des prêts et remboursement des prêts par les ménages et les ASBL;82;;R;O;27525;42842
+952-51;Boni du service extraordinaire;86;;D;O;0;0
+956-51;Prélèvement du service extraordinaire pour l'ordinaire;98;;D;O;0;0
+963-51;Emprunts à charge de tiers;82;;R;O;17211;41303
+992-51;Mali du service extraordinaire;96;;R;O;0;0
+995-51;Prélèvement sur fonds de réserve extraordinaire en faveur du service extraordinaire;88;;R;O;78605;14105
+997-51;Prélèvement du service ordinaire pour l'extraordinaire;88;;R;O;0;0
+112-48;Autres allocations et interventions sociales;70;;D;O;62129;62129
+113-48;Cotisations patronales pour les autres caisses de pension;70;;D;O;62429;62429
+121-48;Indemnités diverses;71;;D;O;61109;44000
+122-48;Indemnités pour autres prestations;71;;D;O;61209;44000
+123-48;Autres frais administratifs;71;;D;O;61319;44000
+124-48;Autres frais techniques;71;;D;O;61329;44000
+125-48;Autres frais pour les bâtiments;71;;D;O;61339;44000
+127-48;Autres frais sur les véhicules;71;;D;O;61349;44000
+140-48;Autres dépenses pour le fonctionnement de la voirie et des cours d'eau;71;;D;O;61359;44000
+161-48;Produits et récupérations divers relatifs à la fonction;60;;R;O;71309;40003/40004
+163-48;Produits et récupérations divers;60;;R;O;71309;71309
+180-48;Produits des interventions diverses;60;;R;O;71309;40003/40004
+322-48;Réparations de petits dommages aux entreprises;72;;D;O;67151;46601
+332-48;Réparations de petits dommages aux ménages;72;;D;O;67151;46601
+361-48;Taxe sur les prestations administratives diverses;61;;R;O;70110;70110
+362-48;Taxe diverses de remboursements;61;;R;O;70120;70120
+363-48;Taxes diverses sur prestations d'hygiène publique;61;;R;O;70130;70130
+364-48;Taxe diverses sur les entreprises;61;;R;O;70140;70140
+365-48;Taxe diverses sur les spectacles et divertissements;61;;R;O;70150;70150
+366-48;Taxes diverses sur l'occupation du domaine public;61;;R;O;70160;70160
+367-48;Taxes diverses sur le patrimoine;61;;R;O;70170;70170
+368-48;Taxes diverses;61;;R;O;70190;70190
+377-48;Taxes additionnelles aux autres taxes régionales et communautaires;61;;R;O;70790;41204
+380-48;Autres contributions des entreprises et des ménages;61;;R;O;71309;40004
+413-48;Avantages sociaux et autres avantages spécifiques à l'autorité supérieure pour l'enseignement;72;;D;O;63411;46502
+443-48;Autres avantages spécifiques aux écoles libres;72;;D;O;63612;46502
+465-48;Autres contributions spécifiques de l'autorité supérieure ;61;;R;O;73405;41302
+466-48;Autres contributions de l'autorité supérieure à des fins générales;61;;R;O;73406;41302
+485-48;Contributions des autres pouvoirs publics à des fins spécifiques;61;;R;O;73619;41302
+115-43;Autres interventions et avantages en numéraires pour le personnel enseignant;70;;D;O;62543;62543
+115-42;Autres interventions et avantages en numéraires pour le personnel contractuel subsidié;70;;D;O;62542;62542
+115-41;Autres interventions et avantages en numéraires pour le personnel communal;70;;D;O;62541;62541
+364-35;Taxe sur les maisons de rendez-vous;61;;R;O;70140;70140
+364-34;Taxe sur les chambres;61;;R;O;70140;70140
+364-33;Taxe sur les décharges;61;;R;O;70140;70140
+113-32;Cotisations patronales à charge de la commune à la caisse communale de pension pour le personnel enseignant;70;;D;O;62412;62412
+364-32;Taxe sur les banques et institutions financières;61;;R;O;70140;70140
+113-31;Cotisations patronales à charge de la commune à la caisse de répartition des pensions du personnel enseignant;70;;D;O;62411;62411
+364-31;Autre taxe sur les établissements dangereux, insalubres ou incommodes;61;;R;O;70140;70140
+364-30;Taxe annuelle sur les établissements dangereux, insalubres ou incommodes;61;;R;O;70140;70140
+364-29;Taxe sur les dépôts de mitrailles, véhicules usagés, abandonnés;61;;R;O;70140;70140
+364-28;Taxe sur les dépôts de matériaux;61;;R;O;70140;70140
+364-27;Taxe sur les terrains de camping;61;;R;O;70140;70140
+364-26;Taxe de séjour;61;;R;O;70140;70140
+364-25;Taxe sur les panneaux directionnels;61;;R;O;70140;70140
+124-24;Autres avantages scolaires;71;;D;O;61327;44000
+364-24;Taxe sur la diffusion publicitaire;61;;R;O;70140;70140
+124-23;Frais d'organisation des repas scolaires;71;;D;O;61327;44000
+364-23;Taxe sur les panneaux publicitaires;61;;R;O;70140;70140
+111-22;Jetons de présence des mandataires communaux;70;;D;O;62022;45300
+113-22;Cotisations patronales à la caisse communale de pension du personnel communal;70;;D;O;62402;62402
+124-22;Frais de voyages scolaires, excursions, classes de plein air;71;;D;O;61327;44000
+364-22;Taxe sur les enseignes et réclames lumineuses;61;;R;O;70140;70140
+111-21;Traitements des mandataires communaux;70;;D;O;62021;45300
+112-21;Indemnités de dernière maladie et de funérailles;70;;D;O;62121;62121
+113-21;Cotisations patronales à la caisse de répartition des pensions du personnel communal;70;;D;O;62401;62401
+115-21;Transports gratuits assurés par la commune;70;;D;O;62521;62521
+124-21;Fournitures pour remise de prix, de jouets,…;71;;D;O;61327;44000
+364-21;Taxe sur les exploitations de taxis;61;;R;O;70140;70140
+123-20;Frais de ventes et locations spécifiques à la fonction;71;;D;O;61319;44000
+364-20;Taxe sur l'autorisation de vendre du poisson;61;;R;O;70140;70140
+367-20;Taxe sur les locaux destinés à l'accomplissement d'acte de commerce;61;;R;O;70170;70170
+111-19;Indemnités de prestations du personnel enseignant;70;;D;O;62019;45300
+113-19;Cotisations patronales à l'ONSSAPL des indemnités de prestations du personnel enseignant;70;;D;O;62219;62219
+123-19;Frais d'achats de livres, de documentation et d'abonnements;71;;D;O;61316;44000
+364-19;Taxe sur les étalages et les vitrines;61;;R;O;70140;70140
+367-19;Taxe sur les surfaces de bureau;61;;R;O;70170;70170
+123-18;Frais d'organisation des examens;71;;D;O;61319;44000
+363-18;Taxe pour l'utilisation des conteneurs communaux;61;;R;O;70130;70130
+364-18;Taxe sur les cercles privés;61;;R;O;70140;70140
+367-18;Taxe sur les piscines privées;61;;R;O;70170;70170
+123-17;Frais de formation du personnel;71;;D;O;61319;44000
+363-17;Taxe pour la protection de l'environnement;61;;R;O;70130;70130
+364-17;Taxe sur les débits de boissons ouverts en dehors des heures;61;;R;O;70140;70140
+367-17;Taxe sur les bois et forêts;61;;R;O;70170;70170
+368-17;Taxe sur les fausses alertes;61;;R;O;70190;70190
+123-16;Frais de réception et de représentation;71;;D;O;61315;44000
+363-16;Taxe sur la délivrance de récipients ou d'autocollants pour les résidus ménagers;61;;R;O;70130;70130
+364-16;Taxe sur les agences de paris et de jeux;61;;R;O;70140;70140
+367-16;Taxe sur les ruines industrielles;61;;R;O;70170;70170
+368-16;Taxe sur les lâchers de pîgeons;61;;R;O;70190;70190
+123-15;Frais de procédure et de poursuite;71;;D;O;61319;44000
+125-15;Fournitures d'eau pour les bâtiments;71;;D;O;61335;44000
+363-15;Taxe sur les tombes et caveaux;61;;R;O;70130;70130
+364-15;Taxe sur le colportage;61;;R;O;70140;70140
+366-15;Taxe sur les appareils de chargement et de déchargement;61;;R;O;70160;70160
+367-15;Taxe sur les immeubles inoccupés, inachevés, les taudis;61;;R;O;70170;70170
+368-15;Taxe sur les terrains de golf;61;;R;O;70190;70190
+123-14;Prestations du service médical du travail;71;;D;O;61314;44000
+125-14;Fournitures de vapeur pour les bâtiments;71;;D;O;61334;44000
+161-14;Remboursement des avantages en nature du personnel et des mandataires;60;;R;O;71309;40003/40004
+363-14;Taxe sur le séjour à la morgue ou au dépôt mortuaire;61;;R;O;70130;70130
+364-14;Taxe sur les salles de vente;61;;R;O;70140;70140
+366-14;Taxe sur les occupations diverses de la voie publique;61;;R;O;70160;70160
+367-14;Taxe sur les terrains non bâtis situés dans les dunes;61;;R;O;70170;70170
+368-14;Taxe communale à caractère général;61;;R;O;70190;70190
+123-13;Frais de gestion et de fonctionnement de l'informatique;71;;D;O;61313;44000
+124-13;Fournitures d'énergie pour le fonctionnement;71;;D;O;61323;44000
+125-13;Fournitures de gaz pour les bâtiments;71;;D;O;61333;44000
+140-13;Fournitures et prestations pour la lutte contre la neige et le verglas;71;;D;O;61353;44000
+161-13;Produits de la vente des bois abattus;60;;R;O;71360;40003/40004
+363-13;Taxe sur l'occupation des caveaux d'attente;61;;R;O;70130;70130
+364-13;Taxe sur les débits de tabac;61;;R;O;70140;70140
+366-13;Taxe sur les distributeurs automatiques;61;;R;O;70160;70160
+367-13;Taxe sur les secondes résidences;61;;R;O;70170;70170
+368-13;Taxe sur le transport des personnes en état d'ivresse;61;;R;O;70190;70190
+111-12;Traitements à charge de la commune du personnel enseignant;70;;D;O;62012;45300
+112-12;Pécules de vacances à charge de la commune du personnel enseignant;70;;D;O;62112;62112
+113-12;Cotisations patronales à l'ONSSAPL à charge de la commune pour le personnel enseignant;70;;D;O;62212;62212
+115-12;Frais de déplacements du domicile au lieu de travail du personnel enseignant;70;;D;O;62512;62512
+123-12;Frais de location et d'entretien du matériel et du mobilier de bureau;71;;D;O;61313;44000
+124-12;Location et entretien des fournitures techniques;71;;D;O;61321;44000
+125-12;Fournitures d'électricité pour les bâtiments;71;;D;O;61332;44000
+127-12;Location du matériel de transport;71;;D;O;61343;44000
+140-12;Location et entretien du matériel de voirie et des cours d'eau;71;;D;O;61351;44000
+161-12;Produits de la vente des coupes de bois sur pied;60;;R;O;71360;40003/40004
+363-12;Taxe sur les transports funèbres;61;;R;O;70130;70130
+364-12;Taxe sur les débits de boissons;61;;R;O;70140;70140
+366-12;Taxe sur les pompes à essence, à huile, à air comprimé;61;;R;O;70160;70160
+367-12;Taxe sur les biens exonérés temporairement du précompte immobilier;61;;R;O;70170;70170
+368-12;Taxe sur les courts de tennis;61;;R;O;70190;70190
+111-11;Traitements à charge de l'auorité supérieure du personnel enseignant;70;;D;O;62011;45500
+123-11;Frais de téléphone;71;;D;O;61312;44000
+140-11;Travaux d'entretien de voirie et des cours d'eau pour le compte de tiers;71;;D;O;61352;44000
+161-11;Produits des droits forestiers d'affouage et d'abattage;60;;R;O;71360;40003/40004
+363-11;Taxe sur les exhumations;61;;R;O;70130;70130
+364-11;Taxe sur le démergement;61;;R;O;70140;70140
+366-11;Taxe sur le photographes et filmeurs;61;;R;O;70160;70160
+367-11;Taxe sur l'absence de place de parking;61;;R;O;70170;70170
+368-11;Taxe sur les stands de tir;61;;R;O;70190;70190
+124-10;Impôts, taxes et redevances divers spécifiques à la fonction;71;;D;O;61609;45200
+125-10;Impôts, taxes et redevances divers sur biens immobiliers;71;;D;O;61601;45200
+127-10;Impôts et taxes sur les véhicules;71;;D;O;61604;45200
+128-10;Précompte mobilier;71;;D;O;61602;45310
+161-10;Interventions des parents dans les classes de plein air et de neige;60;;R;O;71309;40003/40004
+363-10;Taxe sur les inhumations, dispersion des cendres, columbarium;61;;R;O;70130;70130
+364-10;Taxe sur les industries chimiques;61;;R;O;70140;70140
+365-10;Taxe sur les lunaparks;61;;R;O;70150;70150
+366-10;Taxe sur l'exploitation des plages et des rives;61;;R;O;70160;70160
+367-10;Taxe sur les antennes extérieures;61;;R;O;70170;70170
+368-10;Taxe sur le contrôle, le plombage et le pressage du houblon;61;;R;O;70190;70190
+111-09;Indemnités de prestations du personnel contractuel subsidié;70;;D;O;62009;45300
+113-09;Cotisations patronales à l'ONSSAPL des indemnités de prestations du personnel contractuel subsidié;70;;D;O;62209;62209
+161-09;Interventions des parents dans la surveillance et les cours;60;;R;O;71309;40003/40004
+362-09;Taxe pour commodités spéciales dans les rues piétonnières;61;;R;O;70120;70120
+363-09;Taxe sur l'entretien des égoûts;61;;R;O;70130;70130
+364-09;Taxe sur les carrières;61;;R;O;70140;70140
+365-09;Taxe sur la location d'animaux de selle;61;;R;O;70150;70150
+366-09;Taxe sur les kiosques à journaux, sur les baraques à frites…;61;;R;O;70160;70160
+367-09;Taxe sur les terrains à bâtir non bâtis;61;;R;O;70170;70170
+368-09;Taxe sur les motocyclettes, bateaux et canots de plaisance;61;;R;O;70190;70190
+466-09;Fonds de compensation pour la non-perception des additionnels au précompte immobilier;61;;R;O;73406;41302
+111-08;Indemnités de prestations du personnel communal;70;;D;O;62008;45300
+113-08;Cotisations patronales à l'ONSSAPL des indemnités de prestations du personnel communal;70;;D;O;62208;62208
+124-08;Assurances diverses (RC, vol, incendie, mobilier,…);71;;D;O;61509;61509
+125-08;Assurances couvrant les biens immobiliers;71;;D;O;61509;44000
+127-08;Assurances couvrant les véhicules et le charroi;71;;D;O;61501;44000
+140-08;Assurance du matériel de la voirie et des cours d'eau;71;;D;O;61509;44000
+161-08;Interventions des parents dans les repas scolaires;60;;R;O;71309;40003/40004
+362-08;Taxe sur l'inflexion dans les trottoirs;61;;R;O;70120;70120
+363-08;Taxe sur les immeubles reliés ou reliables au réseau d'égoûts;61;;R;O;70130;70130
+364-08;Taxe sur les brasseries;61;;R;O;70140;70140
+365-08;Taxe sur les locations de bateaux;61;;R;O;70150;70150
+366-08;Taxe sur le stationnement des taxis et voitures de louage;61;;R;O;70160;70160
+367-08;Taxe sur les chalets de vacances d'agrément, caravanes;61;;R;O;70170;70170
+368-08;Taxe sur les bicyclettes et les cyclomoteurs;61;;R;O;70190;70190
+466-08;Fonds régionaux spécifiques;61;;R;O;73406;41302
+123-07;Frais de correspondance;71;;D;O;61312;44000
+161-07;Interventions des parents dans les transports scolaires;60;;R;O;71309;40003/40004
+362-07;Taxe d'urbanisation;61;;R;O;70120;70120
+363-07;Taxe sur le déversement sauvage d'immondices sur la voie publique;61;;R;O;70130;70130
+364-07;Taxe sur les briqueteries;61;;R;O;70140;70140
+365-07;Taxe sur les jeux et paris;61;;R;O;70150;70150
+366-07;Taxe sur les parkings;61;;R;O;70160;70160
+367-07;Taxe sur les grillages et le clôtures;61;;R;O;70170;70170
+368-07;Taxe sur les véhicules sans moteur;61;;R;O;70190;70190
+466-07;0;61;;R;O;73406;73406
+122-06;Remboursement des charges du personnel détaché dans la commune;71;;D;O;61206;44000
+123-06;Prestations administratives de tiers spécifiques à la fonction;71;;D;O;61311;44000
+124-06;Prestations techniques de tiers spécifiques à la fonction;71;;D;O;61321;44000
+125-06;Prestations de tiers pour les bâtiments;71;;D;O;61331;44000
+127-06;Prestations de tiers pour les véhicules;71;;D;O;61341;44000
+140-06;Prestations de tiers pour la voirie et les cours d'eau;71;;D;O;61351;44000
+161-06;Récupération des frais de procédures et de poursuite;60;;R;O;71309;40003/40004
+211-06;Charges financières des emprunts de préfinancement;7X;;D;O;65104;43612
+362-06;Taxe pour la construction des conduites d'eau;61;;R;O;70120;70120
+363-06;Taxe d'enlèvement et d'entreposage de véhicules ou d'objets;61;;R;O;70130;70130
+364-06;Taxe sur les charbonnages;61;;R;O;70140;70140
+365-06;Taxe sur les appareils de jeux non automatiques;61;;R;O;70150;70150
+366-06;Taxe sur le placement de terrasses, tables, chaises…;61;;R;O;70160;70160
+367-06;Taxe sur les portes cochères;61;;R;O;70170;70170
+368-06;Taxe sur la tenderie;61;;R;O;70190;70190
+380-06;Contributions des entreprises et ASBL dans les charges de traitement du personnel détaché;61;;R;O;72111;40004
+465-06;Contributions de l'autorité supérieure dans les charges de traitements du personnel détaché;61;;R;O;72141;41600
+466-06;Fonds spéciaux pour les communes au Centre régional d'incendie;61;;R;O;73406;41302
+485-06;Contributions des autres pouvoirs publics dans les charges de traitement du personnel détaché;61;;R;O;72161;41600
+122-05;Jetons de présence des commissions et jurys;71;;D;O;61209;44000
+124-05;Fournitures, entretien et location de vêtements de travail pour le personnel communal;71;;D;O;61322;44000
+161-05;Produits des concessions de droit accordées;60;;R;O;71304;40003/40004
+211-05;Charges financières des emprunts d'assainissement;7X;;D;O;65104;43611/43612
+362-05;Taxe pour le raccordement au réseau d'égoûts;61;;R;O;70120;70120
+363-05;Taxe sur l'enlévement des déchets industriels et encombrants;61;;R;O;70130;70130
+364-05;Taxe sur les fours à coke;61;;R;O;70140;70140
+365-05;Taxe sur les jeux de quilles;61;;R;O;70150;70150
+366-05;Taxe de droits de quai;61;;R;O;70160;70160
+367-05;Taxe sur les entrées de caves, soupiraux, caves sous voirie;61;;R;O;70170;70170
+368-05;Taxe sur les permis de chasse et de port d'armes;61;;R;O;70190;70190
+380-05;Dons manuels;61;;R;O;73300;41600
+465-05;Contributions de l'autorité supérieure pour le personnel contractuel subsidié;61;;R;O;73405;41302
+466-05;Aide exceptionnelle;61;;R;O;73406;41302
+911-05;Remboursement périodique des emprunts d'assainissement et de consolidation;7X;;D;O;64103;43511/43512
+122-04;Droits d'auteurs, honoraires et indemnités pour artistes, professeurs, orateurs et guides;71;;D;O;61204;44000
+123-04;Fournitures administratives destinées à la revente directe;71;;D;O;60740;44000
+124-04;Fournitures techniques destinées à la revente directe;71;;D;O;60740;44000
+161-04;Produits des droits d'entrée;60;;R;O;71309;40003/40004
+211-04;Charges financières des emprunts publics;7X;;D;O;65604;43616
+264-04;Intérêts créditeurs sur les comptes de placements à terme divers;62;;R;O;75788;41513
+361-04;Taxe sur le délivrance de documents administratifs;61;;R;O;70110;70110
+362-04;Taxe pour la construction des égoûts;61;;R;O;70120;70120
+363-04;Taxe sur la vidange des fosses d'aisance;61;;R;O;70130;70130
+364-04;Taxe sur les tanks et les réservoirs;61;;R;O;70140;70140
+365-04;Taxe sur le port des masques;61;;R;O;70150;70150
+367-04;Taxe sur les gouttières, gargouilles, couvre-rigoles;61;;R;O;70170;70170
+368-04;Taxe sur les chiens;61;;R;O;70190;70190
+465-04;Contributions de l'autorité supérieure dans les frais de recensements divers;61;;R;O;73405;41302
+466-04;Contributions dans les charges de pensions  ;61;;R;O;73406;41302
+911-04;Remboursement périodique des emprunts publics;7X;;D;O;64603;43516
+121-03;Indemnités et frais d'habillement du personnel communal;71;;D;O;61103;45500
+122-03;Honoraires et indemnités pour avocats, médecins et personnel paramédical;71;;D;O;61203;44000
+123-03;Fournitures administratives pour gestion de stocks destinés à la revente;71;;D;O;60140;44000
+124-03;Fournitures techniques pour gestion de stocks destinés à la revente;71;;D;O;60140;44000
+125-03;Fournitues de combustibles pour le chauffage des bâtiments;71;;D;O;60714;44000
+127-03;Fournitures d'huiles et de carburant pour les véhicules;71;;D;O;60715;44000
+161-03;Produits de location mobilière relative à la fonction;60;;R;O;71309;40003/40004
+211-03;Charges financières de locations financements;7X;;D;O;65424;44000
+214-03;Intérêts débiteurs des comptes financiers divers;7X;;D;O;65728;43301
+261-03;Intérêts créditeurs des prêts accordés à plus d'un an;62;;R;O;75504;41515
+264-03;Intérêts créditeurs de comptes financiers divers;62;;R;O;75788;41513
+332-03;Subsides aux organismes au service des ménages (obligatoires);72;;D;O;63212;46502
+361-03;Taxe sur le délivrance de permis de lotir;61;;R;O;70110;70110
+362-03;Taxe pour la construction des trottoirs;61;;R;O;70120;70120
+363-03;Taxe sur l'enlèvement des immondices et résidus ménagers;61;;R;O;70130;70130
+364-03;Taxe sur la force motrice;61;;R;O;70140;70140
+365-03;Taxe sur les instruments de musique et de télévision;61;;R;O;70150;70150
+366-03;Taxe sur les forains, les loges foraines et mobiles;61;;R;O;70160;70160
+367-03;Taxe sur les balcons, loggias et marquises;61;;R;O;70170;70170
+368-03;Taxe sur les pigeonniers;61;;R;O;70190;70190
+374-03;Taxe additionnelle à la taxe sur les véhicules sans moteur;61;;R;O;70790;41204
+380-03;Amendes;61;;R;O;70910;40002/40004
+465-03;Contributions de l'autorité supérieure dans la délivrance de permis de conduire;61;;R;O;73405;41302
+466-03;Fonds d'aide exceptionnelle;61;;R;O;73406;41302
+911-03;Remboursement péiodique du principal des locations financements;7X;;D;O;64423;44000
+106-02;Récupération de charges de personnel payées indûment;60;;R;O;77100;45xxx
+111-02;Traitements du personnel contractuel subsidié;70;;D;O;62002;45300
+112-02;Pécules de vacances du personnel contractuel subsidié;70;;D;O;62102;62102
+113-02;Cotisations patronales à l'ONSSAPL pour le personnel contractuel subsidié;70;;D;O;62202;62202
+115-02;Frais de déplacements du domicile au lieu de travail du personnel contractuel subsidié;70;;D;O;62502;62502
+116-02;Rentes directement à charge de la commune;70;;D;O;62600;45300
+117-02;Cotisations versées au service médical du travail;70;;D;O;62702;44000
+118-02;Cotisations aux autres services sociaux;70;;D;O;62801;44000
+121-02;Indemnités de logement du personnel communal;71;;D;O;61102;45500
+122-02;Honoraires et indemnités pour études et travaux du service ordinaire;71;;D;O;61202;44000
+123-02;Fournitures administratives pour consommation directe;71;;D;O;60711;44000
+124-02;Fournitures techniques pour consommation directe;71;;D;O;60712;44000
+125-02;Fournitures pour les bâtiments pour consommation directe;71;;D;O;60713;44000
+127-02;Fournitures pour les véhicules de matières pour consommation directe;71;;D;O;60715;44000
+128-02;Frais administratifs de la gestion du portefeuille;71;;D;O;65802;44000
+129-02;Commission de remboursement des emprunts publics;71;;D;O;65727;44000
+140-02;Fournitures pour la voirie et les cours d'eau pour consommation directe;71;;D;O;60717;44000
+161-02;Produits des ventes de biens concernant la fonction;60;;R;O;71302;40004
+180-02;Droits de passage;60;;R;O;71320;40003/40004
+214-02;Intérêts débiteurs des comptes d'escompte de subsides DEXIA;7X;;D;O;65728;43301
+215-02;Amendes et astreintes;7X;;D;O;65721;46601
+264-02;Intérêts créditeurs sur les comptes de placements à terme DEXIA;62;;R;O;75788;41513
+280-02;Dividendes et ristournes sur concessions accordées;62;;R;O;75711;41516
+301-02;Remboursement de non-valeurs sur droits constatés  perçus du service ordinaire;72;;D;O;67111;46601
+321-02;Remboursements de frais d'exploitation aux entreprises;72;;D;O;63121;46502
+332-02;Subsides aux organismes au service des ménages (facultatifs);72;;D;O;63212;46502
+361-02;Taxe sur le délivrance de documents administratifs concernant les établissements dangereux, incommodes et insalubres;61;;R;O;70110;70110
+362-02;Taxe pour le pavage des rues;61;;R;O;70120;70120
+363-02;Taxe sur le raccordement au réseau de distribution d'eau;61;;R;O;70130;70130
+364-02;Taxe sur les serveuses de bar;61;;R;O;70140;70140
+365-02;Taxe sur les bals publics;61;;R;O;70150;70150
+367-02;Taxe sur la construction, l'aménagement de bâtiments ou de palissades;61;;R;O;70170;70170
+368-02;Taxe sur les chevaux de luxe;61;;R;O;70190;70190
+374-02;Taxe additionnelle à la taxe sur les motos et bateaux et canots de plaisance;61;;R;O;70790;41204
+380-02;Cotisations des mandataires pour la pension;61;;R;O;72401;45452
+415-02;Intervention dans les primes syndicales;72;;D;O;62802;45400
+435-02;Contributions dans le déficit des hôpitaux publics;72;;D;O;63618;46502
+463-02;Contributions de l'autorité supérieure pour les fournitures classiques;61;;R;O;73403;41302
+465-02;Contributions de l'autorité supérieure dans les frais de personnel;61;;R;O;73405;41302
+466-02;Fonds complémentaire pour recettes garanties;61;;R;O;73406;41302
+485-02;Contributions des autres pouvoirs publics dans les frais de personnel;61;;R;O;73619;41302
+998-02;Reprises des provisions pour risques et charges;68;;R;O;77111;16000
+030-01;Facturation interne dépenses ordinaires;74;;D;O;0;0
+080-01;Facturation interne recettes ordinaires;64;;R;O;0;0
+106-01;Notes de crédit et ristournes du service ordinaire;60;;R;O;77100;44000
+111-01;Traitements du personnel communal;70;;D;O;62001;45300
+112-01;Pécules de vacances du personnel communal;70;;D;O;62101;45300
+113-01;Cotisations patronales à l'ONSSAPL pour le personnel communal;70;;D;O;62201;62201
+115-01;Frais de déplacements du domicile au lieu de travail du personnel communal;70;;D;O;62501;62501
+116-01;Pensions directement à charge de la commune;70;;D;O;52600;45300
+117-01;Primes versées pour couvrir l'assurance contre les accidents du travail;70;;D;O;62701;44000
+118-01;Cotisations au service social collectif;70;;D;O;62801;44000
+121-01;Frais de déplacements et de séjour du personnel communal et des mandataires;71;;D;O;61101;44000
+122-01;Honoraires et indemnités pour expertises;71;;D;O;61201;44000
+123-01;Fournitures administratives pour gestion de stocks;71;;D;O;60111;44000
+124-01;Fournitures techniques pour la gestion de stocks;71;;D;O;60112;44000
+125-01;Fournitures pour les bâtiments pour gestion de stocks;71;;D;O;60113;44000
+126-01;Loyers et charges locatives des immeubles loués;71;;D;O;61000;46601
+127-01;Fournitures pour les véhicules pour gestion de stocks;71;;D;O;60113;44000
+128-01;Frais administratifs de la gestion financière;71;;D;O;65801;44000
+129-01;Commission sur les emprunts publics;71;;D;O;65727;44000
+140-01;Fournitures pour la voirie et les cours d'eau pour gestion de stocks;71;;D;O;60117;44000
+161-01;Produits de prestations directes concernant la fonction;60;;R;O;71301;40003/40004
+162-01;Produits de prestations pour les pouvoirs publics;60;;R;O;71309;40003/40004
+163-01;Produits des locations immobilières aux entreprises et aux ménages;60;;R;O;71320;40003/40004
+164-01;Produits des locations immobilières aux pouvoirs publics;60;;R;O;71320;40003/40004
+180-01;Récupérations des travaux exécutés pour le compte de tiers;60;;R;O;71301;40003/40004
+206-01;Récupération des charges financières et des pertes des entreprises;62;;R;O;77100;41600
+211-01;Charges financières des emprunts à charge de la commune;7X;;D;O;65104;43611/43612
+212-01;Charges financières des emprunts à charge de l'autorité supérieure;7X;;D;O;65144;43611
+213-01;Charges financières des emprunts pour compte de tiers;7X;;D;O;65214;43611/43612
+214-01;Intérêts débiteurs des comptes chez DEXIA;7X;;D;O;65728;43301
+215-01;Intérêts moratoires, de retard et assimilés;7X;;D;O;65721;46601
+216-01;Pertes de change;7X;;D;O;65726;46601
+217-01;Primes d'émission des emprunts et commissions de prêts;7X;;D;O;65727;43516
+218-01;Intérêts débiteurs d'emprunts contractés par des tiers et garantis par la commune;7X;;D;O;65304;46601
+219-01;Rentes viagères et perpétuelles à payer;7X;;D;O;65722;46601
+221-01;Participations aux pertes d'exploitation des régies communales;7X;;D;O;65711;46502
+222-01;Participations aux pertes d'exploitation des intercommunales;7X;;D;O;65711;46502
+223-01;Participations aux pertes d'exploitation des sociétés fédérales et régionales;7X;;D;O;65711;46502
+224-01;Participations aux pertes d'exploitation de DEXIA;7X;;D;O;65711;46502
+225-01;Participations aux pertes d'exploitation des autres entreprises publiques;7X;;D;O;65711;46502
+227-01;Primes d'émission des emprunts publics;7X;;D;O;65727;43516
+229-01;Charges relatives aux opérations de la dette publique;7X;;D;O;65727;43516
+261-01;Intérêts créditeurs des titres de placements;62;;R;O;75721;41515
+262-01;Ristournes sur intérêts des emprunts;62;;R;O;75404;41517
+263-01;Remboursements des charges financières des emprunts à charge de tiers;62;;R;O;75214;41514
+264-01;Intérêts créditeurs sur les comptes courants chez DEXIA;62;;R;O;75788;41513
+265-01;Intérêts de retard créditeurs sur les créances;62;;R;O;75751;41519
+266-01;Bénéfices de change;62;;R;O;75726;41600
+268-01;Récupération sur tiers des charges financières d'emprunts garantis par la commune;62;;R;O;75304;41600
+269-01;Produits des rentes viagères et perpétuelles;62;;R;O;75782;41600
+271-01;Participations dans les bénéfices des régies communales;62;;R;O;75711;41516
+272-01;Dividendes de participations dans les intercommunales;62;;R;O;75711;41516
+273-01;Dividendes de participations dans les sociétés fédérales  et régionales;62;;R;O;75711;41516
+274-01;Dividendes de participations dans DEXIA;62;;R;O;75711;41516
+275-01;Dividendes de participations dans les autres entrprises publiques;62;;R;O;75711;41516
+280-01;Dividendes de participations dans les entreprises privées;62;;R;O;75711;41516
+301-01;Non-valeurs de droits constatés non perçus du service ordinaire;72;;D;O;67111;4xxxx
+302-01;Déficit de trésorerie;72;;D;O;67100;46601
+306-01;Récupération de transferts de revenus au secteur privé;61;;R;O;77100;41600
+307-01;Excédent de trésorerie;61;;R;O;77100;41600
+310-01;Subsides en loyers et en intérêts aux entreprises;72;;D;O;63110;46502
+321-01;Subsides et primes directs accordés aux entreprises;72;;D;O;63211;46502
+322-01;Subsides indirects divers accordés aux entreprises;72;;D;O;63122;46502
+331-01;Subsides et primes directs accordés aux ménages;72;;D;O;63211;46502
+332-01;Cotisations de membre des associations d'intérêt communal;72;;D;O;63212;46502
+361-01;Taxe sur la conservation des véhicules saisis par la police;61;;R;O;70110;70110
+362-01;Taxe pour l'acquisition de terrains de voirie;61;;R;O;70120;70120
+363-01;Taxe sur les bâtiments reliés ou reliables au réseau d'eau;61;;R;O;70130;70130
+364-01;Taxe sur le personnel occupé;61;;R;O;70140;70140
+365-01;Taxe sur les spectacles;61;;R;O;70150;70150
+366-01;Taxe sur les droits d'emplacement sur les marchés;61;;R;O;70160;70160
+367-01;Taxe sur le patrimoine mobilier;61;;R;O;70170;70170
+368-01;Taxe sur le personnel de maison et de service;61;;R;O;70190;70190
+371-01;Taxe additionnelle au précompte immobilier;61;;R;O;70710;41204
+372-01;Taxe additionnelle à l'impôt des pesonnes physiques;61;;R;O;70720;41204
+373-01;Taxe additionnelle à la taxe sur les automobiles;61;;R;O;70730;41204
+374-01;Taxe additionnelle à la taxe sur les vélos, vélomoteurs;61;;R;O;70790;41204
+375-01;Taxe additionnelle à la taxe sur les chiens;61;;R;O;70790;41204
+376-01;Taxes additionnelles aux autres taxes provinciales;61;;R;O;70790;41204
+377-01;Taxes additionnelles aux taxes pour l'environnement;61;;R;O;70790;41204
+380-01;Indemnités pour petits dommages des entreprises et des ménages;61;;R;O;77100;41600
+406-01;Récupération des transferts de revenus au secteur public;61;;R;O;77100;41600
+413-01;Contributions à l'autorité supérieure dans les frais de fonctionnement scolaire;72;;D;O;63411;46502
+415-01;Contributions à l'autorité supérieure dans les charges de traitements et de fonctionnement;72;;D;O;63412;46502
+431-01;Contributions dans les traitements des enseignants des autres pouvoirs publics;72;;D;O;63611;46502
+432-01;Contributions dans les charges de pensions des enseignants des autres pouvoirs publics;72;;D;O;63611;46502
+433-01;Contributions dans les autres frais de fonctionnement des autres pouvoirs publics;72;;D;O;63612;46502
+434-01;Contributions dans les charges financières d'intérêts des autres pouvoirs publics;72;;D;O;63613;46502
+435-01;Contributions dans les charges spécifiques de fonctionnement des autres pouvoirs publics;72;;D;O;63617;46502
+441-01;Contributions dans les charges de traitements des enseignants de l'enseignement libre;72;;D;O;63611;46502
+442-01;Contributions dans les charges de pensions des enseignants de l'enseignement libre;72;;D;O;63611;46502
+443-01;Avantages sociaux et subsides pour l'enseignement libre;72;;D;O;63612;46502
+444-01;Contributions dans les institutions de recherche scientifique avec personnalité juridique;72;;D;O;63617;46502
+445-01;Contributions dans les autres institutions publiques avec personnalité juridique;72;;D;O;63617;46502
+461-01;Contributions de l'autorité supérieure dans les traitements du personnel enseignant;61;;R;O;73401;41302
+462-01;Contributions de l'autorité supérieure dans les charges de pension du personnel enseignant;61;;R;O;73401;41302
+463-01;Contributions de l'autorité supérieure dans les frais de fonctionnement de l'enseignement;61;;R;O;73403;41302
+464-01;Remboursement par l'autorité supérieure des charges financières des emprunts;61;;R;O;75144;41514
+465-01;Contributions de l'autorité supérieure dans les frais de fonctionnement;61;;R;O;73405;41302
+466-01;Fonds des communes;61;;R;O;73406;41302
+469-01;Indemnités pour petits dommages de l'autorité supérieure;61;;R;O;77100;41600
+481-01;Contributionss des autres pouvoirs publics dans les traitements du personnel enseignant;61;;R;O;73611;41302
+482-01;Contributionss des autres pouvoirs publics dans les pensions des enseignants;61;;R;O;73611;41302
+483-01;Contributions des autres pouvoirs publics dans les frais de fonctionnement de l'enseignement;61;;R;O;73619;41302
+485-01;Contributions des autres pouvoirs publics dans les frais de fonctionnement de l'enseignement;61;;R;O;73619;41302
+489-01;Indemnités pour petits dommages des autres pouvoirs publics;61;;R;O;77100;41600
+490-01;Contributions pour les traitements de l'enseignement libre;61;;R;O;73611;41302
+664-01;Récupération sur l'autorité supérieure des remboursements périodiques des emprunts;61;;R;O;74143;42514
+665-01;Remboursements d'annuités de dommages de guerre 14-18;61;;R;O;75783;41302
+667-01;Récupération sur l'autorité supérieure du remboursement des emprunts pour le déficit des hôpitaux du CPAS;61;;R;O;74213;42514
+668-01;Récupération sur l'autorité supérieure du remboursement des emprunts de consolidation;61;;R;O;74143;42514
+861-01;Remboursement périodique des prêts par les entreprises publiques;62;;R;O;74515;42521
+893-01;Remboursement périodique par les tiers des emprunts à leur charge;62;;R;O;74213;42514
+911-01;Remboursement périodique des emprunts à charge de la commune;7X;;D;O;64103;43511/43512
+918-01;Remboursements des emprunts contractés par des tiers et garantis par la commune;7X;;R;O;64303;46601
+954-01;Prélèvements pour le fonds de réserves ordinaires;78;;D;O;68504;14104
+957-01;Prélèvement du service ordinaire pour l'extraordinaire;78;;D;O;0;0
+968-01;Remboursements par les tiers des emprunts garantis et payés par la commune;62;;D;O;74303;41600
+998-01;Utilisation des provisions pour risques et charges;68;;R;O;66622;16000

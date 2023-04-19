@@ -12,11 +12,12 @@ import java.util.Scanner;
 @Service
 public class ImportCG {
 
+    final CGRepository cgRepository;
     public ImportCG(CGRepository cgRepository) {
         this.cgRepository = cgRepository;
     }
 
-    final CGRepository cgRepository;
+
 
     public void Execution(String source) throws FileNotFoundException {
 

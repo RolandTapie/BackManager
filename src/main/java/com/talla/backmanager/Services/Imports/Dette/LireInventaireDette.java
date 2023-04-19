@@ -27,12 +27,23 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Data
-@AllArgsConstructor
-@NoArgsConstructor
-@ToString
 @Service
 @Slf4j
 public class LireInventaireDette implements ILireInventaireDette {
+    private final BanqueRepository banqueRepository;
+
+    private final EcheanceRepository echeanceRepository;
+
+    private final  CommunRepository communRepository;
+
+    private final  EmpruntRepository empruntRepository;
+
+    public LireInventaireDette(BanqueRepository banqueRepository, EcheanceRepository echeanceRepository, CommunRepository communRepository, EmpruntRepository empruntRepository) {
+        this.banqueRepository = banqueRepository;
+        this.echeanceRepository = echeanceRepository;
+        this.communRepository = communRepository;
+        this.empruntRepository = empruntRepository;
+    }
 
     List<Echeance> listeEch = new ArrayList<Echeance>();
     List<Commun> listeCom = new ArrayList<Commun>();
@@ -42,20 +53,7 @@ public class LireInventaireDette implements ILireInventaireDette {
     Echeance e1= new Echeance();
     Commun com1=new Commun();
     Emprunt emprunt = new Emprunt();
-    @Autowired
-    BanqueRepository banqueRepository;
-    @Autowired
-    EcheanceRepository echeanceRepository;
-    @Autowired
-    CommunRepository communRepository;
-    @Autowired
-    EmpruntRepository empruntRepository;
 
-
-    //LireInventaireDette(BanqueRepository banqueRepositor)
-//    {
-//        this.banqueRepository=banqueRepositor;
-//    }
 
     public void execution(String cheminDetteInventaire) {
 

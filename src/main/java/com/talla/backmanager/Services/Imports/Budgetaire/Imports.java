@@ -27,7 +27,8 @@ public class Imports {
     final ImportEconomique importEconomique;
     final ImportTiers importTiers;
     final ImportEngagement importEngagement;
-    public Imports(CGRepository cgRepository, EngagementRepository engagementRepository, TiersRepository tiersRepository, AllocationRepository allocationRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository, ImportCG importCG, ImportFonction importFonction, ImportEconomique importEconomique, ImportTiers importTiers, ImportEngagement importEngagement) {
+    final ImportAllocation importAllocation;
+    public Imports(CGRepository cgRepository, EngagementRepository engagementRepository, TiersRepository tiersRepository, AllocationRepository allocationRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository, ImportCG importCG, ImportFonction importFonction, ImportEconomique importEconomique, ImportTiers importTiers, ImportEngagement importEngagement, ImportAllocation importAllocation) {
         this.cgRepository = cgRepository;
         this.engagementRepository = engagementRepository;
         this.tiersRepository = tiersRepository;
@@ -39,6 +40,7 @@ public class Imports {
         this.importEconomique = importEconomique;
         this.importTiers = importTiers;
         this.importEngagement = importEngagement;
+        this.importAllocation = importAllocation;
     }
 
 
@@ -46,7 +48,7 @@ public class Imports {
 
 
 
-    public  String source="src/main/java/talla/fin/projet/ZFiles/";
+    public  String source="src/main/java/com/talla/backmanager/Zfiles/";
     
     public void execution() {
 
@@ -77,7 +79,7 @@ public class Imports {
         System.out.println("  > Import du fichier de Allocations");
         System.out.println("  > Validation des articles necessaire à l'import des allocations");
         try {
-            ImportAllocation.Execution(source,allocationRepository,fonctionRepository, economiqueRepository);
+            importAllocation.Execution(source);
         } catch (FileNotFoundException f)
         {
             System.out.println("Fichier d'import de Allocations inexistant");

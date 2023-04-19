@@ -16,14 +16,10 @@ import java.util.stream.Collectors;
 @RequestMapping("api/v1/dette")
 @CrossOrigin("*")
 public class DetteController {
-    final Convert convert;
     final BanqueRequest banqueRequest;
     final EcheanceRequest echeanceRequest;
-    final EcheanceRepository echeanceRepository;
 
-    public DetteController(BanqueRepository banqueRepository, EcheanceRepository echeanceRepository, Convert convert, BanqueRequest banqueRequest, EcheanceRequest echeanceRequest) {
-        this.echeanceRepository = echeanceRepository;
-        this.convert = convert;
+    public DetteController(  BanqueRequest banqueRequest, EcheanceRequest echeanceRequest) {
         this.banqueRequest = banqueRequest;
         this.echeanceRequest = echeanceRequest;
     }

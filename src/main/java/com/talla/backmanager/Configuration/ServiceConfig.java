@@ -8,14 +8,12 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class ServiceConfig {
-
     @Value("${chemin.dette.inventaire}")
     private String cheminDetteInventaire="";
 
     public String getcheminDetteInventaire(){
         return cheminDetteInventaire;
     }
-
 
     @Bean
     public Convert newConvert(){

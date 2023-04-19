@@ -7,17 +7,28 @@ import com.talla.backmanager.Exceptions.ArticleNonValideException;
 import com.talla.backmanager.Repositories.Budgetaire.AllocationRepository;
 import com.talla.backmanager.Repositories.Budgetaire.EconomiqueRepository;
 import com.talla.backmanager.Repositories.Budgetaire.FonctionRepository;
-import com.talla.backmanager.Services.Service.Comptabilite.Budgetaire.Implementations.ServiceArticle;
 import com.talla.backmanager.Services.Service.Comptabilite.Budgetaire.Interfaces.IFServiceArticle;
+import org.springframework.stereotype.Service;
 
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+@Service
 public class ImportAllocation {
+    private final AllocationRepository allocationRepository ;
+    private final FonctionRepository fonctionRepository ;
+    private final EconomiqueRepository economiqueRepository;
+    private final IFServiceArticle serviceArticle;
+    public ImportAllocation(AllocationRepository allocationRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository, IFServiceArticle serviceArticle) {
+        this.allocationRepository = allocationRepository;
+        this.fonctionRepository = fonctionRepository;
+        this.economiqueRepository = economiqueRepository;
+        this.serviceArticle = serviceArticle;
+    }
 
-    public static void Execution(String source, AllocationRepository allocationRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository) throws FileNotFoundException {
+    public  void Execution(String source) throws FileNotFoundException {
 
         String article ="";
         double initial=0;
@@ -45,11 +56,11 @@ public class ImportAllocation {
             Allocation allocation= new Allocation();
 
             //TODO: Valider l'article
-            IFServiceArticle serviceArticle = (IFServiceArticle) new ServiceArticle();
+
             Article article1 = serviceArticle.ConstitutionArticle(article);
 
             try {
-                Boolean test = serviceArticle.ValidationArticle(article1, fonctionRepository, economiqueRepository);
+                Boolean test = serviceArticle.ValidationArticle(article1);
                 if (test==true)
                 {
                     allocation.setArticle(article);
@@ -60,7 +71,7 @@ public class ImportAllocation {
 
                     //TODO: lier aux entités JPA
 
-                    allocationRepository.save(allocation);
+                    this.allocationRepository.save(allocation);
                     ok++;
                     //System.out.println("Article enregistré : "+ article);
                 }

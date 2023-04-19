@@ -10,18 +10,26 @@ import com.talla.backmanager.Repositories.Budgetaire.FonctionRepository;
 import com.talla.backmanager.Services.Service.Comptabilite.Budgetaire.Interfaces.IFServiceArticle;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
+import org.springframework.stereotype.Service;
 
-
+@Service
 //@AllArgsConstructor
 //@NoArgsConstructor
 public class ServiceArticle implements IFServiceArticle {
-     //FonctionRepository fonctionRepository;
-     //EconomiqueRepository economiqueRepository;
-    public ServiceArticle(){
+    private final FonctionRepository fonctionRepository;
+    private final EconomiqueRepository economiqueRepository;
 
+    public ServiceArticle(FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository) {
+        this.fonctionRepository = fonctionRepository;
+        this.economiqueRepository = economiqueRepository;
     }
+
+    //FonctionRepository fonctionRepository;
+     //EconomiqueRepository economiqueRepository;
+
+
     @Override
-    public  Boolean ValidationArticle(Article article, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository) throws ArticleNonValideException {
+    public  Boolean ValidationArticle(Article article) throws ArticleNonValideException {
         Boolean result=true; //true
         String numfon=article.getFonction().getNumfonction();
         String numeco=article.getEconomique().getEco();

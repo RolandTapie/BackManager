@@ -8,6 +8,6 @@ import com.talla.backmanager.Repositories.Budgetaire.FonctionRepository;
 
 public interface IFServiceArticle {
 
-     Boolean ValidationArticle(Article article, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository) throws ArticleNonValideException;
+     Boolean ValidationArticle(Article article) throws ArticleNonValideException;
     Article ConstitutionArticle(String article);
 }
