@@ -25,12 +25,16 @@ public class BackManagerApplication implements CommandLineRunner {
         SpringApplication.run(BackManagerApplication.class, args);
     }
 
+    public String test(){
+        lireInventaireDette.execution(this.serviceConfig.getcheminDetteInventaire());
+        return "OK";
+    }
     @Override
     public void run(String... args) throws Exception {
         System.out.println("2-Lecture des Inventaires Dettes");
-//        log.info(serviceConfig.getcheminDetteInventaire());
+        log.info(serviceConfig.getcheminDetteInventaire());
 //        imports.execution();
-//        lireInventaireDette.execution(serviceConfig.getcheminDetteInventaire());
+        lireInventaireDette.execution(serviceConfig.getcheminDetteInventaire());
     }
 
 }
