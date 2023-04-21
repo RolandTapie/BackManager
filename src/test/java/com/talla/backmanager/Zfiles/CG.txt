@@ -1,0 +1,657 @@
+1;Bénéficiaire de la garantie constituée par des tiers;Passif;VIII.A.I
+2;Tiers garant  ;Passif;VIII.A.I
+1001;Tiers pour lequel la commune s'est portée garante;Passif;VIII.A.I
+1002;Bénéficiaire de la garantie accordée ;Passif;VIII.A.I
+3001;Garanties reçues  ;Passif;VIII.A.I
+3002;Constituants de garanties  ;Passif;VIII.A.I
+5001;Obligations en cas d'acquisition d'actifs immobilisés  ;Passif;VIII.A.I
+5002;Créanciers des oblig. en cas d'acquisition d'actifs immob.;Passif;VIII.A.I
+5101;Oblig. en cas d'acquisition d'immob. en location-financ.;Passif;VIII.A.I
+5102;Créanciers des oblig. en cas d'acq. d'immob. en loc-financ.;Passif;VIII.A.I
+5201;Débiteurs des obligations en cas de cession d'actifs immob.;Passif;VIII.A.I
+5202;Obligations en cas de cession d'actifs immobilisés;Passif;VIII.A.I
+7001;Droits d'usage à long terme sur des actifs immobilisés;Passif;VIII.A.I
+7002;Créanciers de droits d'usage à long terme sur actifs immob.;Passif;VIII.A.I
+10000;Capital initial;Passif;VIII.A.I
+12000;Résultats capitalisés;Passif;VIII.A.I
+13011;Mali cumulé des exercices antérieurs;Passif;VIII.A.I
+13013;Boni cumulé des exercices antérieurs;Passif;VIII.A.I
+13021;Mali de l'exercice précédent;Passif;VIII.A.I
+13023;Boni de l'exercice précédent;Passif;VIII.A.I
+13031;Mali de l'exercice en cours;Passif;VIII.A.I
+13033;Boni de l'exercice en cours;Passif;VIII.A.I
+14104;Fonds de réserve ordinaire;Passif;VIII.A.I
+14105;Fonds de réserve extraordinaire;Passif;VIII.A.I
+15111;Subsides d’invest., dons et legs en capital des entreprises;Passif;VIII.A.I
+15117;Réduction des subsides d’investissement, dons et legs entr.;Passif;VIII.A.I
+15131;Dons et legs en biens patrimoniaux des entreprises privées;Passif;VIII.A.I
+15137;Réduction des dons et legs en biens patrim. des entr. priv.;Passif;VIII.A.I
+15211;Subsides d'investissement,dons legs en capital des ménages;Passif;VIII.A.I
+15217;Réduction des dons et legs reçus en capital des ménages;Passif;VIII.A.I
+15231;Dons et legs en biens patrimoniaux des ménages, ASBL et ..;Passif;VIII.A.I
+15237;Réduction des dons et legs en biens patrimoniaux des ménages;Passif;VIII.A.I
+15411;Subsides d'investissement en capital de l'autorité supérieur;Passif;VIII.A.I
+15417;Réduction des subsides d’invest. en cap. reçus de Aut. sup.;Passif;VIII.A.I
+15421;Subsides d'investiss. en récup. de remb. emp. par Aut. sup.;Passif;VIII.A.I
+15427;Réduction subs. en récupération de remb. empr. Aut. sup.;Passif;VIII.A.I
+15431;Subsides en biens patrimoniaux de l'Autorité supérieure;Passif;VIII.A.I
+15437;Réduction des subsides en biens patrimoniaux de l'Aut. sup.;Passif;VIII.A.I
+15611;Subsides d'investiss. en capital reçus d'autres pouv. pub.;Passif;VIII.A.I
+15617;Réd. des subs. d’investiss. en capital des autres pouv. pub.;Passif;VIII.A.I
+15631;Subsides en biens patrimoniaux des autres pouvoirs public;Passif;VIII.A.I
+15637;Réd. des subsides en biens patrimoniaux autres pouv. pub.;Passif;VIII.A.I
+16000;Provisions pour risques et charges;Passif;VIII.A.I
+17101;Emprunts à charge de la commune;Passif;VIII.A.I
+17103;Remboursement des emprunts à charge de la commune;Passif;VIII.A.I
+17141;Emprunts à charge de l'autorité supérieure;Passif;VIII.A.I
+17143;Remboursement des emprunts à charge de l'autorité supérieure;Passif;VIII.A.I
+17151;Emprunts d'assainissement et de consolidation;Passif;VIII.A.I
+17153;Remboursement emprunts d'assainissement et de consolidation;Passif;VIII.A.I
+17211;Emprunts pour le compte de tiers;Passif;VIII.A.I
+17213;Remboursement des emprunts pour le compte de tiers;Passif;VIII.A.I
+17421;Dette de location financement;Passif;VIII.A.I
+17423;Remboursement de la dette de location financement;Passif;VIII.A.I
+17501;Emprunts de préfinancements;Passif;VIII.A.I
+17503;Remboursement des emprunts de préfinancement;Passif;VIII.A.I
+17601;Emprunts publics;Passif;VIII.A.I
+17603;Remboursement des emprunts publics;Passif;VIII.A.I
+17700;Dettes diverses à plus d'un an;Passif;VIII.A.I
+17800;Garanties à plus d'un an reçues en espèces;Passif;VIII.A.I
+21411;Plans d'aménagement, d'urbanisme et  autres études;Passif;VIII.A.I
+21418;Amort. des plans d'aménagement, d'urbanisme et études;Passif;VIII.A.I
+21421;Plans et études abandonnés;Passif;VIII.A.I
+21428;Amortissement des plans et des études abandonnés;Passif;VIII.A.I
+22011;Terres agricoles;Passif;VIII.A.I
+22012;Equipement et maintenance extraordinaire des terres agricole;Passif;VIII.A.I
+22016;Réévaluation annuelle des terres agricoles;Passif;VIII.A.I
+22017;Réévaluation exceptionnelle des terres agricoles;Passif;VIII.A.I
+22019;Amortis. de l'équip. et de la maint. extra. des terres agric;Passif;VIII.A.I
+22021;Terrains à bâtir non bâtis;Passif;VIII.A.I
+22022;Equipement et maint. extra. des terrains à bâtir;Passif;VIII.A.I
+22026;Réévaluation annuelle des terrains à bâtir non bâtis;Passif;VIII.A.I
+22027;Réévaluation exceptionnelle des terrains à bâtir non bâtis;Passif;VIII.A.I
+22029;Amortis. de l'équip. et  maint. extra. des terrains à bâtir;Passif;VIII.A.I
+22031;Terrains industriels;Passif;VIII.A.I
+22032;Equip. et maintenance extraord. des terrains industriels;Passif;VIII.A.I
+22036;Réévaluation annuelle des terrains industriels;Passif;VIII.A.I
+22037;Réévaluation exceptionnelle des terrains industriels;Passif;VIII.A.I
+22039;Amortis. équip. et maint. extra. terrains industriels;Passif;VIII.A.I
+22051;Terrains des parcs, jardins, plaines de jeux et de sports;Passif;VIII.A.I
+22052;Equip.et maint. extra. terrains des parcs, jardins, plaines ;Passif;VIII.A.I
+22056;Rééval. annuelle terrains des parcs, jardins, plaines;Passif;VIII.A.I
+22057;Rééval. except. terrains des parcs, jardins, plaines de jeux;Passif;VIII.A.I
+22059;Amort. équip. et maint. extra. terrains parcs et jardins;Passif;VIII.A.I
+22061;Terrains forestiers et réserves naturelles;Passif;VIII.A.I
+22062;Equip. et maint. extra. des terrains forestiers;Passif;VIII.A.I
+22066;Rééval. annuelle des terrains forestiers et réserves nat.;Passif;VIII.A.I
+22067;Rééval. exceptionnelle terrains forestiers et réserves nat.;Passif;VIII.A.I
+22069;Amort. équip. et maint. extraord. terr. forest. et rés. nat.;Passif;VIII.A.I
+22071;Bois sur pied;Passif;VIII.A.I
+22072;Maintenance extraordinaire des bois sur pied;Passif;VIII.A.I
+22077;Réévaluation exceptionnelle des bois sur pied;Passif;VIII.A.I
+22079;Amortiss. de la maintenance extraordinaire des bois sur pied;Passif;VIII.A.I
+22081;Plantations non amortissables sur les terrains;Passif;VIII.A.I
+22082;Plantations à amortir sur terrains;Passif;VIII.A.I
+22087;Réévaluation exceptionnelle des plantations sur les terrains;Passif;VIII.A.I
+22089;Amortissement des plantations sur les terrains;Passif;VIII.A.I
+22091;Autres terrains;Passif;VIII.A.I
+22092;Equipement et maintenance extraordinaire des autres terrains;Passif;VIII.A.I
+22096;Réévaluation annuelle des autres terrains;Passif;VIII.A.I
+22097;Réévaluation exceptionnelle des autres terrains;Passif;VIII.A.I
+22099;Amortiss. équipement et mainten. extraord. autres terrains;Passif;VIII.A.I
+22111;Terrains des constructions;Passif;VIII.A.I
+22112;Equip. et mainten. extra. des terrains des constructions;Passif;VIII.A.I
+22116;Réévaluation annuelle des terrains des constructions;Passif;VIII.A.I
+22117;Réévaluation exceptionnelle des terrains des constructions;Passif;VIII.A.I
+22119;Amort. équip. et mainten. extraord. des terrains des constr.;Passif;VIII.A.I
+22121;Bâtiments administratifs;Passif;VIII.A.I
+22122;Equipement et maintenance extraordinaire bâtiments admin.;Passif;VIII.A.I
+22126;Réévaluation annuelle des bâtiments administratifs;Passif;VIII.A.I
+22127;Réévaluation exceptionnelle des bâtiments administratifs;Passif;VIII.A.I
+22128;Amortissement des bâtiments administratifs;Passif;VIII.A.I
+22129;Amortiss. équip. et maint. extraord. des bâtiments adm.;Passif;VIII.A.I
+22131;Bâtiments scolaires;Passif;VIII.A.I
+22132;Equip. et mainten. extra. des bâtiments scolaires;Passif;VIII.A.I
+22136;Réévaluation annuelle des bâtiments scolaires;Passif;VIII.A.I
+22137;Réévaluation exceptionnelle des bâtiments scolaires;Passif;VIII.A.I
+22138;Amortissement des bâtiments scolaires;Passif;VIII.A.I
+22139;Amortiss. équip. et maint. extra. des bâtiments scolaires;Passif;VIII.A.I
+22141;Bâtiments industriels et d'exploitation;Passif;VIII.A.I
+22142;Equip. maint. extra. des bâtiments industriels et exploit.;Passif;VIII.A.I
+22146;Réévaluation annuelle des bâtiments industriels et d'exploit;Passif;VIII.A.I
+22147;Réévaluation except. des bâtiments industriels et d'exploit;Passif;VIII.A.I
+22148;Amortissement des bâtiments industriels et d'exploitation;Passif;VIII.A.I
+22149;Amort. de l'équip. et de maint. extra. bâtim. indistriels ;Passif;VIII.A.I
+22151;Bâtiments cultuels, culturels et sportifs;Passif;VIII.A.I
+22152;Equip. maint. extra. bâtim cultuels, culturels et sportifs;Passif;VIII.A.I
+22156;Rééval. annuelle bâtiments cultuels, culturels et sportifs;Passif;VIII.A.I
+22157;Rééval. except. bâtiments cultuels, culturels et sportifs;Passif;VIII.A.I
+22158;Amortissement des bâtiments cultuels, culturels et sportifs;Passif;VIII.A.I
+22159;Amort.équip.main.extra. bât cultuels, culturels et sportifs;Passif;VIII.A.I
+22181;Bâtiments sans destination spécifique non valorisés au bilan;Passif;VIII.A.I
+22182;Equip. et maint. extra. des bât. sans dest. spécif.;Passif;VIII.A.I
+22186;Réévaluation annuelle bâtiments sans destination spécifique;Passif;VIII.A.I
+22187;Réévaluation exceptionnelle bât. sans destination spécifique;Passif;VIII.A.I
+22188;Amortissement des bâtiments sans destination spécifique;Passif;VIII.A.I
+22189;Amort. équip. et maint. extra. bât. sans dest. spécifique;Passif;VIII.A.I
+22191;Autres bâtiments;Passif;VIII.A.I
+22192;Equipement et maintenance extraordinaire des autres bâtiment;Passif;VIII.A.I
+22196;Réévaluation annuelle des autres bâtiments;Passif;VIII.A.I
+22197;Réévaluation exceptionnelle des autres bâtiments;Passif;VIII.A.I
+22198;Amortissement des autres bâtiments;Passif;VIII.A.I
+22199;Amort. équip. maint. extra. autres bât. sans dest. spécif.;Passif;VIII.A.I
+22311;Terrains de la voirie;Passif;VIII.A.I
+22316;Réévaluation annuelle des terrains de la voirie;Passif;VIII.A.I
+22317;Réévaluation exceptionnelle des terrains de la voirie;Passif;VIII.A.I
+22321;Terrassements et empierrements de la voirie;Passif;VIII.A.I
+22322;Equip. et mainten. extra. des terrass. et empierr. voirie;Passif;VIII.A.I
+22328;Amortissement des terrassements et empierrements de voirie;Passif;VIII.A.I
+22329;Amortiss. de l’équip. et maint. terrains et empierr. voirie;Passif;VIII.A.I
+22331;Revêtements de la voirie (couche d'usure);Passif;VIII.A.I
+22338;Amortissement du revêtement de la voirie;Passif;VIII.A.I
+22341;Accessoires de la voirie;Passif;VIII.A.I
+22342;Maintenance extraordinaire des accessoires de voirie;Passif;VIII.A.I
+22348;Amortissement des accessoires de voirie;Passif;VIII.A.I
+22349;Amortiss. maintenance extraordinaire des accessoires voirie;Passif;VIII.A.I
+22351;Canalisations d'égouts;Passif;VIII.A.I
+22352;Maintenance extraordinaire des canalisations d'égout;Passif;VIII.A.I
+22358;Amortissement des canalisations d'égouts;Passif;VIII.A.I
+22359;Amortiss. maintenance extraord. des canalisations égouts;Passif;VIII.A.I
+22361;Canalisations d'eau;Passif;VIII.A.I
+22362;Maintenance extraordinaire des canalisations d'eau;Passif;VIII.A.I
+22368;Amortissement des canalisations d'eau;Passif;VIII.A.I
+22369;Amortiss. de la maintenance extraord. des canalisat. eau;Passif;VIII.A.I
+22371;Autres canalisations;Passif;VIII.A.I
+22372;Maintenance extraordinaire des autres canalisations;Passif;VIII.A.I
+22378;Amortissement des canalisations diverses;Passif;VIII.A.I
+22379;Amortiss. maintenance extraord. des canalisat. diverses;Passif;VIII.A.I
+22381;Eclairage public;Passif;VIII.A.I
+22382;Maintenance extraordinaire de l'éclairage public;Passif;VIII.A.I
+22388;Amortissement de l'éclairage public;Passif;VIII.A.I
+22389;Amortiss. maintenance extraord. de l'éclairage public;Passif;VIII.A.I
+22391;Plantations de voirie non amortissables;Passif;VIII.A.I
+22392;Plantations de voirie à amortir;Passif;VIII.A.I
+22397;Réévaluation exceptionnelle des plantations de voirie;Passif;VIII.A.I
+22399;Amortissement des plantations de voirie;Passif;VIII.A.I
+22411;Terrains des ouvrages d'art;Passif;VIII.A.I
+22416;Réévaluation annuelle des terrains des ouvrages d'art;Passif;VIII.A.I
+22417;Réévaluation exceptionnelle des terrains des ouvrages d'art;Passif;VIII.A.I
+22421;Ouvrages d'art;Passif;VIII.A.I
+22422;Maintenance extraordinaire des ouvrages d'art;Passif;VIII.A.I
+22428;Amortissement des ouvrages d'art;Passif;VIII.A.I
+22429;Amortissement de la maint. extra. des ouvrages d'art;Passif;VIII.A.I
+22611;Terrains des cours et plans d'eau;Passif;VIII.A.I
+22616;Réévaluations annuelle des terrains des cours et plans d'eau;Passif;VIII.A.I
+22617;Rééval. exception. des terrains des cours et plans d'eau;Passif;VIII.A.I
+22621;Cours et plan d'eau;Passif;VIII.A.I
+22622;Maintenance extraordinaire des cours et plans d'eau;Passif;VIII.A.I
+22628;Amortissement des cours et plan d'eau;Passif;VIII.A.I
+22629;Amortissement de la maint. extra. des cours et plans d'eau;Passif;VIII.A.I
+23011;Mobilier de bureau;Passif;VIII.A.I
+23018;Amortissement du mobilier de bureau;Passif;VIII.A.I
+23021;Signalisation routière et petits équipements de voirie;Passif;VIII.A.I
+23028;Amortiss. de la signal. routière et du petit équip. voirie;Passif;VIII.A.I
+23091;Autre mobilier;Passif;VIII.A.I
+23098;Amortissement de l'autre mobilier;Passif;VIII.A.I
+23111;Machines à écrire;Passif;VIII.A.I
+23118;Amortissement des machines à écrire;Passif;VIII.A.I
+23121;Matériel de reprographie;Passif;VIII.A.I
+23128;Amortissement du matériel de reprographie;Passif;VIII.A.I
+23131;Matériel informatique;Passif;VIII.A.I
+23138;Amortissement du matériel informatique;Passif;VIII.A.I
+23191;Autre matériel de bureau;Passif;VIII.A.I
+23198;Amortissement de l'autre matériel de bureau;Passif;VIII.A.I
+23211;Motos, vélos et vélomoteurs;Passif;VIII.A.I
+23218;Amortissement des motos, des vélos et des vélomoteurs;Passif;VIII.A.I
+23221;Autos et camionnettes;Passif;VIII.A.I
+23222;Maintenance extraordinaire des autos et camionnettes;Passif;VIII.A.I
+23228;Amortissement des autos et des camionnettes;Passif;VIII.A.I
+23229;Amortiss. maintenance extraord. des autos et camionette;Passif;VIII.A.I
+23231;Camions;Passif;VIII.A.I
+23232;Maintenance extraordinaire des camions;Passif;VIII.A.I
+23238;Amortissement des camions;Passif;VIII.A.I
+23239;Amortissement maintenance extraordinaire des camions;Passif;VIII.A.I
+23291;Véhicules spéciaux et autres véhicules;Passif;VIII.A.I
+23292;Maintenance extraordinaire des véhicules spéciaux et divers;Passif;VIII.A.I
+23298;Amortissement des véhicules spéciaux et des autres véhicules;Passif;VIII.A.I
+23299;Amortiss. mainten. extraord. véhicules spéciaux et divers;Passif;VIII.A.I
+23301;Matériel d'équipement et d'exploitation;Passif;VIII.A.I
+23302;Maintenance extra. du matériel d’équip. et d'exploit.;Passif;VIII.A.I
+23308;Amortissement du matériel d'équipement et d'exploitation;Passif;VIII.A.I
+23309;Amortiss. maintenance extraord. du matériel équip. et expl.;Passif;VIII.A.I
+23401;Patrimoine artistique;Passif;VIII.A.I
+23407;Réévaluation exceptionnelle du patrimoine artistique;Passif;VIII.A.I
+23411;Cheptel;Passif;VIII.A.I
+23418;Amortissement du cheptel;Passif;VIII.A.I
+23491;Autres investissements mobiliers;Passif;VIII.A.I
+23498;Amortissement des autres investissements mobiliers;Passif;VIII.A.I
+24011;Achat, aménagement et équip de terrains en cours d'exécution;Passif;VIII.A.I
+24021;Achat, const. et mainten. de bâtiments en cours d’exéc.;Passif;VIII.A.I
+24031;Travaux d'infrastructure et de voirie en cours d'exécution;Passif;VIII.A.I
+24041;Etudes, plans d'urbanisme et d'aménag. en cours d’exéc.;Passif;VIII.A.I
+25111;Subs. investis. accordés capital aux entreprises privées;Passif;VIII.A.I
+25118;Amort. subs. investis. accordés en capital aux entr. privées;Passif;VIII.A.I
+25131;Subs. investis.et dons biens patriminiaux aux entr. privées;Passif;VIII.A.I
+25138;Amort. subs. investis. dons biens patrim. aux entr. privées;Passif;VIII.A.I
+25211;Subsides d'investissement accordés en capital aux ménages;Passif;VIII.A.I
+25218;Amort. subsides d'invest. accordés en capital aux ménages;Passif;VIII.A.I
+25221;Subsides d'invest. accordés en capit. aux ASBL;Passif;VIII.A.I
+25228;Amort. des subsides d'invest. accordés en capit. aux ASBL;Passif;VIII.A.I
+25231;Subsides d'investiss. accordés en capital aux autres orga.;Passif;VIII.A.I
+25238;Amortiss. subs. d'investiss. accordés en capit. autres orga.;Passif;VIII.A.I
+25281;Subs. investis.et dons biens patrim. aux ménages, ASBL ;Passif;VIII.A.I
+25288;Amort. subs. investis. dons biens patrim. aux ménages, ASBL;Passif;VIII.A.I
+25411;Subsides d’investissement accordés en capital à l’Aut. sup.;Passif;VIII.A.I
+25418;Amortiss. subs. d’investiss. accordés en capital Aut. sup.;Passif;VIII.A.I
+25431;Subs. investis.et dons biens patrimoniaux à l'Autorité sup.;Passif;VIII.A.I
+25438;Amort. subs. investis.dons biens patrim. à l'Autorité sup.;Passif;VIII.A.I
+25611;Subs. d’investiss. accordés en capital aux autres pouv. pub.;Passif;VIII.A.I
+25618;Amortiss. subs. investiss. acc. en capit. autres pouv. pub.;Passif;VIII.A.I
+25631;Subs. investis.dons biens patrim. aux autres pouv. publics;Passif;VIII.A.I
+25638;Amort. subs. investis. dons biens patrim. autres P.P.;Passif;VIII.A.I
+26121;Droits réels sur biens immobilisés en emphytéose ou superf.;Passif;VIII.A.I
+26128;Amortissement des immeubles acquis par emphytéose;Passif;VIII.A.I
+26211;Immeubles en location financement;Passif;VIII.A.I
+26216;Réévaluation annuelle d'immeubles en location financement;Passif;VIII.A.I
+26217;Réévalua. exceptionnelle d'immeubles en location financement;Passif;VIII.A.I
+26218;Amortissement des immeubles acquis en location financement;Passif;VIII.A.I
+26301;Mobilier acquis par contrat location-financement;Passif;VIII.A.I
+26308;Amortissement du mobilier en location-financement;Passif;VIII.A.I
+26311;Matériel de bureau acquis en location-financement;Passif;VIII.A.I
+26318;Amortissement du matériel de bureau en location-financement;Passif;VIII.A.I
+26321;Matériel de transport acquis en location-financement;Passif;VIII.A.I
+26328;Amortissement du matériel de transport en location-financ.;Passif;VIII.A.I
+26331;Matériel d'exploitation acquis en location-financement;Passif;VIII.A.I
+26338;Amortissement du matériel d'exploitation en location-financ.;Passif;VIII.A.I
+26341;Oeuvres d'art en location financement;Passif;VIII.A.I
+26347;Rééval. except. des oeuvres d'art en location financement;Passif;VIII.A.I
+27041;Promesse de subsides en capital de l'Autorité supérieure;Passif;VIII.A.I
+27045;Subsides en capital versés par l'Autorité supérieure;Passif;VIII.A.I
+27051;Promesse de subsides en récup. de remb. d’empr. de Aut. sup.;Passif;VIII.A.I
+27055;Récupération des remboursements d’emprunts de l’Aut. sup.;Passif;VIII.A.I
+27061;Promesse de subsides en capital des autres pouvoirs publics;Passif;VIII.A.I
+27065;Subsides en capital versés par les autres pouvoirs publics;Passif;VIII.A.I
+27400;Produits financiers capitalisés;Passif;VIII.A.I
+27511;Prêts accordés aux entreprises;Passif;VIII.A.I
+27515;Remboursement des prêts accordés aux entreprises;Passif;VIII.A.I
+27519;Réduction de valeur des prêts accordés aux entreprises;Passif;VIII.A.I
+27521;Prêts accordés aux ménages et aux ASBL;Passif;VIII.A.I
+27525;Remboursement des prêts accordés aux ménages et ASBL;Passif;VIII.A.I
+27529;Réduction de valeur des prêts accordés aux ménages et ASBL;Passif;VIII.A.I
+27541;Prêts accordés à l'autorité supérieure;Passif;VIII.A.I
+27545;Remboursement des prêts accordés à l'autorité supérieure;Passif;VIII.A.I
+27549;Réduction de valeur des prêts accordés à l'autor. supérieure;Passif;VIII.A.I
+27561;Prêts accordés aux autres pouvoirs publics;Passif;VIII.A.I
+27565;Remboursement des prêts accordés aux autres pouvoirs publics;Passif;VIII.A.I
+27569;Réduction de valeur des prêts accordés aux autres P.P.;Passif;VIII.A.I
+28211;Participations dans des entreprises publiques;Passif;VIII.A.I
+28212;Participations à libérer dans des entreprises publiques;Passif;VIII.A.I
+28221;Participations dans les entreprises privées;Passif;VIII.A.I
+28222;Participations à libérer dans des entreprises privées;Passif;VIII.A.I
+28510;Titres à revenus fixes;Passif;VIII.A.I
+28800;Cautionnements à plus d'un an versés en espèces;Passif;VIII.A.I
+30111;Stocks de fournitures de bureau;Passif;VIII.A.I
+30112;Stocks de fournitures techniques;Passif;VIII.A.I
+30113;Stocks de fournitures pour les bâtiments;Passif;VIII.A.I
+30115;Stocks de fournitures pour les véhicules;Passif;VIII.A.I
+30117;Stocks de fournitures pour la voirie;Passif;VIII.A.I
+30140;Stocks de biens destinés à la revente;Passif;VIII.A.I
+30199;Réduction des valeurs actées des stocks;Passif;VIII.A.I
+40001;Débiteurs de taxes et redevances par nature et exercice;Passif;VIII.A.I
+40002;Débiteurs de redevances par compte particulier individualisé;Passif;VIII.A.I
+40003;Débiteurs de produits d'exploitation par nature et exercice;Passif;VIII.A.I
+40004;Débiteurs de produits d'exploitation par compte particulier ;Passif;VIII.A.I
+40700;Débiteurs douteux de redevances et de produits d’exploit.;Passif;VIII.A.I
+41100;TVA récupérable;Passif;VIII.A.I
+41204;Impôts additionnels;Passif;VIII.A.I
+41301;Subsides d'investissement en capital, dons et legs;Passif;VIII.A.I
+41302;Subsides d'exploitation;Passif;VIII.A.I
+41303;Emprunts;Passif;VIII.A.I
+41304;Location financement;Passif;VIII.A.I
+41306;Emprunts publics;Passif;VIII.A.I
+41513;Intérets créditeurs des comptes financiers;Passif;VIII.A.I
+41514;Récupération des charges financières des emprunts;Passif;VIII.A.I
+41515;Intérêts de titres et de prêts;Passif;VIII.A.I
+41516;Dividendes;Passif;VIII.A.I
+41517;Ristournes d'intérêts d'emprunts;Passif;VIII.A.I
+41519;Autres intérêts créditeurs;Passif;VIII.A.I
+41600;Débiteurs divers;Passif;VIII.A.I
+41700;Débiteurs douteux divers;Passif;VIII.A.I
+41800;Valeurs échues (effets);Passif;VIII.A.I
+41900;Créances en compte courant;Passif;VIII.A.I
+42514;Récupération des remboursements périodiques des emprunts;Passif;VIII.A.I
+42516;Récup. des rembours. périod. d'emprunts échéant dans l'année;Passif;VIII.A.I
+42521;Récupération des prêts aux entreprises;Passif;VIII.A.I
+42522;Récupération des prêts aux ménages et ASBL;Passif;VIII.A.I
+42524;Récupération des prêts à l'autorité supérieure;Passif;VIII.A.I
+42526;Récupération des prêts aux autres pouvoirs publics;Passif;VIII.A.I
+42527;Récupération des prêts échéant dans l'année;Passif;VIII.A.I
+42530;Récup. des remb. anticipés des emprunts et des remboursement;Passif;VIII.A.I
+42841;Soldes exigibles des crédits octroyés aux entreprises;Passif;VIII.A.I
+42842;Soldes exigibles des crédits octroyés aux ménages et ASBL;Passif;VIII.A.I
+42844;Soldes exigibles des prêts à l'autorité supérieure;Passif;VIII.A.I
+42846;Soldes exigibles des prêts aux autres pouvoirs publics;Passif;VIII.A.I
+43300;Emprunts à court terme;Passif;VIII.A.I
+43301;Intérêts débiteurs sur les comptes financiers;Passif;VIII.A.I
+43511;Remboursements périodiques des emprunts contractés DEXIA;Passif;VIII.A.I
+43512;Remboursements périodiques des autres emprunts contractés;Passif;VIII.A.I
+43513;Remboursements périodiques des emprunts échéant dans l'année;Passif;VIII.A.I
+43514;Rembours. périodique des dettes de loc.-financ. échéant ann.;Passif;VIII.A.I
+43516;Fonds d'amortissement des emprunts publics : remboursements;Passif;VIII.A.I
+43521;Remboursement anticipé des emprunts contractés chez DEXIA;Passif;VIII.A.I
+43529;Remboursement anticipé d'autres emprunts contractés;Passif;VIII.A.I
+43611;Charges financières des emprunts contractés chez DEXIA;Passif;VIII.A.I
+43612;Charges financières des autres emprunts contractés;Passif;VIII.A.I
+43616;Fonds d'amortissement des emprunts publics : intérêts;Passif;VIII.A.I
+44000;Fournisseurs;Passif;VIII.A.I
+44200;Factures à recevoir;Passif;VIII.A.I
+44700;Factures à imputer;Passif;VIII.A.I
+45100;TVA à payer;Passif;VIII.A.I
+45110;TVA à payer après perception des tiers redevables;Passif;VIII.A.I
+45200;Impôts et taxes;Passif;VIII.A.I
+45300;Précompte professionnel retenu;Passif;VIII.A.I
+45301;Précompte professionnel retenu;Passif;VIII.A.I
+4530x;Précompte professionnel retenu;Passif;VIII.A.I
+45310;Précompte mobilier retenu;Passif;VIII.A.I
+45330;Retenue fiscale sur travaux immob. (entreprises non enreg.);Passif;VIII.A.I
+45400;Cotisations à l'ONSSAPL et aux autres organismes;Passif;VIII.A.I
+45401;Cotisations à l'ONSSAPL et aux autres organismes;Passif;VIII.A.I
+4540x;Cotisations à l'ONSSAPL et aux autres organismes;Passif;VIII.A.I
+45430;Retenue pour l'ONSS sur trav. immob. (entreprise non enreg.);Passif;VIII.A.I
+45452;Cotisations pour la pension des mandataires;Passif;VIII.A.I
+45453;Cotisations pour la caisse locale des pensions;Passif;VIII.A.I
+45500;Indemnités et rémunérations nettes;Passif;VIII.A.I
+45501;Indemnités et rémunérations nettes;Passif;VIII.A.I
+4550x;Indemnités et rémunérations nettes;Passif;VIII.A.I
+45820;Autres retenues sur les rémunérations;Passif;VIII.A.I
+45821;Autres retenues sur les rémunérations;Passif;VIII.A.I
+4582x;Autres retenues sur les rémunérations;Passif;VIII.A.I
+46101;Avances accordées et acomptes;Passif;VIII.A.I
+46102;Garanties et cautionnements versés;Passif;VIII.A.I
+46103;Acomptes et avances au personnel communal;Passif;VIII.A.I
+46105;Récupérations de garanties sur emprunts;Passif;VIII.A.I
+46401;Avances et acomptes reçus;Passif;VIII.A.I
+46402;Garanties et cautionnements reçus;Passif;VIII.A.I
+46501;Prêts octroyés à payer;Passif;VIII.A.I
+46502;Subsides octroyés à payer;Passif;VIII.A.I
+46601;Créditeurs divers;Passif;VIII.A.I
+46701;Participations à payer;Passif;VIII.A.I
+46900;Dettes en compte courant;Passif;VIII.A.I
+48100;Opérations diverses pour compte de tiers;Passif;VIII.A.I
+48400;Récupération à charge de tiers pour une autre commune;Passif;VIII.A.I
+48500;Dons, legs et fondations;Passif;VIII.A.I
+49010;Charges à reporter;Passif;VIII.A.I
+49020;Produits acquis;Passif;VIII.A.I
+49030;Produits à reporter;Passif;VIII.A.I
+49040;Charges à imputer;Passif;VIII.A.I
+49200;Comptes des gestionnaires imputateurs;Passif;VIII.A.I
+49500;Recouvrements à identifier;Passif;VIII.A.I
+49501;Recettes portées dans les journaux auxiliaires;Passif;VIII.A.I
+49600;Paiements à identifier;Passif;VIII.A.I
+49700;Recouvrements à ventiler;Passif;VIII.A.I
+49800;Sommes perçues indûment;Passif;VIII.A.I
+49900;Avances sur intérêts d'emprunts versées;Passif;VIII.A.I
+49999;Compte de reprise de l'ancienne comptabilité budgétaire;Passif;VIII.A.I
+55001;Comptes courants chez DEXIA;Passif;VIII.A.I
+55005;Comptes d'avances sur emprunts chez DEXIA;Passif;VIII.A.I
+55006;Comptes d'ouverture de crédits sur emprunts chez DEXIA;Passif;VIII.A.I
+55010;Comptes à vue particuliers chez DEXIA;Passif;VIII.A.I
+55018;Comptes du fonds d'emprunts et subsides chez DEXIA;Passif;VIII.A.I
+55030;Comptes fonds d'emprunts (reliquats à réaffecter) chez DEXIA;Passif;VIII.A.I
+55050;Comptes d'ouvert. de crédit d'escompte de subsid. chez DEXIA;Passif;VIII.A.I
+55070;Comptes de capitalisation de charges d'emprunts chez DEXIA;Passif;VIII.A.I
+55101;Comptes courants à la BNB;Passif;VIII.A.I
+55201;Comptes à vue chez FORTIS;Passif;VIII.A.I
+55206;Comptes d'ouvertures de crédit sur emprunts chez FORTIS;Passif;VIII.A.I
+55210;Comptes en agence chez FORTIS;Passif;VIII.A.I
+55300;Comptes à terme à un an au plus;Passif;VIII.A.I
+55501;Compte courant de banque;Passif;VIII.A.I
+55600;Compte courant aux CCP;Passif;VIII.A.I
+55700;Caisse du receveur;Passif;VIII.A.I
+56000;Virements internes;Passif;VIII.A.I
+58001;Paiements en cours sur comptes courants chez DEXIA;Passif;VIII.A.I
+58006;Paiements en cours sur comptes d'ouverture de crédit sur emp;Passif;VIII.A.I
+58010;Paiements en cours sur comptes à vue particuliers chez DEXIA;Passif;VIII.A.I
+58018;Paiements en cours sur comptes d'emprunts et subsides DEXIA;Passif;VIII.A.I
+58030;Paiements en cours sur comptes de reliquats d'emprunts DEXIA;Passif;VIII.A.I
+58050;Paiements en cours sur comptes d'escompte de subsides DEXIA;Passif;VIII.A.I
+58101;Paiements en cours sur comptes courants à la BNB;Passif;VIII.A.I
+58201;Paiements en cours sur comptes courants chez FORTIS;Passif;VIII.A.I
+58206;Paiem. en cours sur comptes d'ouvert crédit sur empr. FORTIS;Passif;VIII.A.I
+58210;Paiements en cours sur comptes en agence chez FORTIS;Passif;VIII.A.I
+58300;Paiements en cours sur comptes à terme à 1 an au plus;Passif;VIII.A.I
+58501;Paiements en cours sur comptes courants bancaires;Passif;VIII.A.I
+58600;Paiements en cours sur comptes courants aux CCP;Passif;VIII.A.I
+60111;Fournitures de bureau pour gestion de stocks;Passif;VIII.A.I
+60112;Fournitures techniques pour gestion de stocks;Passif;VIII.A.I
+60113;Fournitures pour bâtiments pour gestion de stock;Passif;VIII.A.I
+60115;Fournitures pour véhicules pour gestion de stock;Passif;VIII.A.I
+60117;Fournitures pour voirie et cours d'eau pour gestion de stock;Passif;VIII.A.I
+60140;Fournitures pour gestion de stocks destinées à la revente;Passif;VIII.A.I
+60711;Fournitures de bureau pour consommation directe;Passif;VIII.A.I
+60712;Fournitures techniques pour consommation directe;Passif;VIII.A.I
+60713;Fournitures pour les bâtiments pour consommation directe;Passif;VIII.A.I
+60714;Combustibles pour chauff. des bâtiments pour cons. directe;Passif;VIII.A.I
+60715;Carburants pour les véhicules pour consommation directe;Passif;VIII.A.I
+60717;Fournitures pour voirie et cours d'eau pour consom. directe;Passif;VIII.A.I
+60740;Fournitures destinées à la revente directe;Passif;VIII.A.I
+61000;Loyers et charges locatives;Passif;VIII.A.I
+61101;Frais de déplac. et de séjours du pers. et des mandataires;Passif;VIII.A.I
+61102;Indemnités de logement du personnel communal;Passif;VIII.A.I
+61103;Indemnités et frais d'habillement du personnel communal;Passif;VIII.A.I
+61109;Indemnités et frais divers du personnel communal;Passif;VIII.A.I
+61201;Honoraires et indemnités pour expertises;Passif;VIII.A.I
+61202;Honoraires et indemnités pour d'études et trav. du serv. ord;Passif;VIII.A.I
+61203;Honoraires et indemn. pour avocats, médecins et paramédical;Passif;VIII.A.I
+61204;Droits auteur,honoraires,indemn. pour artistes, professeurs;Passif;VIII.A.I
+61206;Rembours. des charges du personnel détaché dans la commune;Passif;VIII.A.I
+61209;Honor., indemn. et jetons de présence pour prestat. diverses;Passif;VIII.A.I
+61311;Prestations administratives de tiers;Passif;VIII.A.I
+61312;Frais administratifs des postes, téléphones, télégraphes;Passif;VIII.A.I
+61313;Loc., entret. et gestion du mob. et du mat. bureau et info.;Passif;VIII.A.I
+61314;Prestations du service médical du travail;Passif;VIII.A.I
+61315;Frais de réception et de représentation;Passif;VIII.A.I
+61316;Frais de documentation et d'abonnement;Passif;VIII.A.I
+61319;Autres frais de fonctionnement administratif;Passif;VIII.A.I
+61321;Prestations techniques de tiers;Passif;VIII.A.I
+61322;Frais pour les vêtements de travail;Passif;VIII.A.I
+61323;Fournitures d'énergie pour le fonctionnement;Passif;VIII.A.I
+61327;Frais de fonctionnement relatifs aux écoles communales;Passif;VIII.A.I
+61329;Frais techniques divers;Passif;VIII.A.I
+61331;Prestattions de tiers pour les bâtiments;Passif;VIII.A.I
+61332;Fournitures d'électricité pour les bâtiments;Passif;VIII.A.I
+61333;Fournitures de gaz pour les bâtiments;Passif;VIII.A.I
+61334;Fournitures de vapeur pour les bâtiments;Passif;VIII.A.I
+61335;Fournitures d'eau pour les bâtiments;Passif;VIII.A.I
+61339;Autres frais pour les bâtiments;Passif;VIII.A.I
+61341;Prestations de tiers pour les véhicules (hors carburant);Passif;VIII.A.I
+61343;Frais de location du matériel de transport;Passif;VIII.A.I
+61349;Autres frais pour les moyens de transport;Passif;VIII.A.I
+61351;Prestations de tiers pour la voirie et les cours d'eau;Passif;VIII.A.I
+61352;Travaux de voirie exécutés pour le compte de tiers;Passif;VIII.A.I
+61353;Frais de déblaiement de la neige et du verglas;Passif;VIII.A.I
+61359;Autres frais d'exploitation pour voirie et cours d'eau;Passif;VIII.A.I
+61501;Assurances des véhicules;Passif;VIII.A.I
+61509;Autres frais d'assurrances;Passif;VIII.A.I
+61601;Impôts, taxes et redevances sur biens immobiliers;Passif;VIII.A.I
+61602;Précompte mobilier à charge de la commune;Passif;VIII.A.I
+61604;Impôts et taxes sur les véhicules;Passif;VIII.A.I
+61609;Autres taxes et impôts à charge de la commune;Passif;VIII.A.I
+62001;Traitement du personnel communal;Passif;VIII.A.I
+62002;Traitement du personnel contractuel subsidié;Passif;VIII.A.I
+62008;Indemnité de prestations du personnel communal;Passif;VIII.A.I
+62009;Indemnité de prestations du personnel contractuel subsidié;Passif;VIII.A.I
+62011;Traitement à charge de l'aut. sup. du personnel enseignant;Passif;VIII.A.I
+62012;Traitement à charge de la commune du personnel enseignant;Passif;VIII.A.I
+62019;Indemnités de prestations du personnel enseignant;Passif;VIII.A.I
+62021;Traitements des mandataires communaux;Passif;VIII.A.I
+62022;Jetons de présence des mandataires communaux;Passif;VIII.A.I
+62101;Pécule de vacances du personnel communal;Passif;VIII.A.I
+62102;Pécule de vacances du personnel contractuel subsidié;Passif;VIII.A.I
+62112;Pécule de vacances à charge de commune du personnel enseign.;Passif;VIII.A.I
+62121;Indemnités de dernière maladie et de funérailles;Passif;VIII.A.I
+62129;Autres allocations et interventions sociales;Passif;VIII.A.I
+62201;Cotisat. patron. versées à l'ONSSAPL personnel communal;Passif;VIII.A.I
+62202;Cotisat. patron. à l’O.N.S.S.A.P.L. pers. contr. subsidié;Passif;VIII.A.I
+62208;Cotisat. patron. à l’O.N.S.S.A.P.L. indemn. prestat. pers.;Passif;VIII.A.I
+62209;Cotisat. patron. O.N.S.S.A.P.L. indemn. prestat. pers. subs.;Passif;VIII.A.I
+62212;Cotis. patron. ONSSAPL charge de commune pour pers. enseign.;Passif;VIII.A.I
+62219;Cotis. patron. ONSSAPL des indemn. prest. du pers. enseig.;Passif;VIII.A.I
+62401;Cotisat. patron. à la caisse de répart des pensions du pers.;Passif;VIII.A.I
+62402;Cotisations patronales à la caisse communale de pension;Passif;VIII.A.I
+62411;Cotis patron chrg de com à caisse de répart pens pers enseig;Passif;VIII.A.I
+62412;Cotis patron charge de com à cais.comnunale pens pers enseig;Passif;VIII.A.I
+62429;Cotisations patronales pour les autres caisses de pension;Passif;VIII.A.I
+62501;Frais de déplac. du dom. au travail du pers. communal;Passif;VIII.A.I
+62502;Frais de déplac. du dom. au travail du pers. contract subs.;Passif;VIII.A.I
+62512;Frais de déplac. du dom. au travail du pers. enseignant;Passif;VIII.A.I
+62521;Transports gratuits assurés par la commune;Passif;VIII.A.I
+62541;Autres intervent. et avant. en numéraires pour pers. comm.;Passif;VIII.A.I
+62542;Autres intervent. et avant. en numéraires pour le pers. subs;Passif;VIII.A.I
+62543;Autres interv. et avant. en numéraires pour pers enseignant;Passif;VIII.A.I
+62600;Pensions et rentes directement à charge de la commune;Passif;VIII.A.I
+62701;Primes versées pour couvrir l'assurance contre les accidents;Passif;VIII.A.I
+62702;Cotisations versées au service médical du travail;Passif;VIII.A.I
+62801;Cotisation au service social collectif du personnel;Passif;VIII.A.I
+62802;Primes syndicales en faveur du personnel communal;Passif;VIII.A.I
+63110;Subsides en réduction de loyer ou d'intérêts aux entreprises;Passif;VIII.A.I
+63121;Subsides directs d'exploitation aux entreprises;Passif;VIII.A.I
+63122;Subsides indirects d'exploitation aux entreprises;Passif;VIII.A.I
+63211;Primes et subsides directs aux ménages;Passif;VIII.A.I
+63212;Subsides indirects aux ménages;Passif;VIII.A.I
+63411;Subs. à l'AS pour frais de fonctionnement de l'enseignement;Passif;VIII.A.I
+63412;Contrib. aux frais de fonct. et rémun. supp. par l'aut. sup.;Passif;VIII.A.I
+63611;Contrib. dans les rémunérations et les pensions de l'enseig.;Passif;VIII.A.I
+63612;Contributions aux frais de fonctionnement de l'enseignement;Passif;VIII.A.I
+63613;Contributions aux charges financières des autres P.P.;Passif;VIII.A.I
+63617;Contrib. aux frais de fonctionn. des autres pouvoir public;Passif;VIII.A.I
+63618;Contributions dans le déficit des hôpitaux publics;Passif;VIII.A.I
+64103;Remboursement des emprunts à charge de la commune;Passif;VIII.A.I
+64143;Remboursement des emprunts à charge de l'autorité supérieure;Passif;VIII.A.I
+64213;Remboursement des emprunts à charge de tiers;Passif;VIII.A.I
+64303;Remboursement d'emprunts sur appel en garantie pour tiers;Passif;VIII.A.I
+64423;Remboursement du principal de dette location financement;Passif;VIII.A.I
+64603;Remboursement annuel des emprunts publics;Passif;VIII.A.I
+65104;Charge financière des emprunts à charge de la commune;Passif;VIII.A.I
+65144;Charges financières des emprunts à charge de l'autorité sup.;Passif;VIII.A.I
+65214;Charge financière des emprunts à charge de tiers;Passif;VIII.A.I
+65304;Charges financières empr. en appel de garantie pour tiers;Passif;VIII.A.I
+65424;Charge financière des dettes en location financement;Passif;VIII.A.I
+65604;Charge financière des emprunts publics;Passif;VIII.A.I
+65711;Contributions aux pertes d'exploitation d'entreprises publiq;Passif;VIII.A.I
+65721;Intérêts moratoires, de retard et assimilés;Passif;VIII.A.I
+65722;Rentes viagères et perpétuelles payées;Passif;VIII.A.I
+65726;Pertes de change;Passif;VIII.A.I
+65727;Primes d'émission d'emprunts publics et commissions de prêts;Passif;VIII.A.I
+65728;Intérêts débiteurs sur comptes courants divers;Passif;VIII.A.I
+65801;Frais administratifs des comptes financiers;Passif;VIII.A.I
+65802;Frais de gestion du portefeuille;Passif;VIII.A.I
+66014;Dotations aux amortissements des plans et études;Passif;VIII.A.I
+66020;Dot. amortiss. équip, entret. extraord. et plant. terrains;Passif;VIII.A.I
+66021;Dotations aux amortissements des bâtiments;Passif;VIII.A.I
+66023;Dotations aux amortissements de la voirie;Passif;VIII.A.I
+66024;Dotations aux amortissements des ouvrages d'art;Passif;VIII.A.I
+66026;Dotations aux amortissements des cours et plans d'eau;Passif;VIII.A.I
+66030;Dot. amortiss. mobilier, signalis. et petits équip. voirie;Passif;VIII.A.I
+66031;Dotations aux amortissements du matériel de bureau;Passif;VIII.A.I
+66032;Dotations aux amortissements du matériel roulant;Passif;VIII.A.I
+66033;Dot. amortiss. mach. et mat. équip. et expl. (y comp. médi.);Passif;VIII.A.I
+66034;Dotations aux amortiss. des autres investissements et mob.;Passif;VIII.A.I
+66061;Dotations amortiss. des droits réels d'emphytéose et superf.;Passif;VIII.A.I
+66120;Réduction annuelle de valeur du patrimoine immobilier;Passif;VIII.A.I
+66201;Dotations aux réductions de valeurs de stocks;Passif;VIII.A.I
+66202;Restitution des dotations aux réductions de valeurs de stock;Passif;VIII.A.I
+66400;Variation des stocks : réduction;Passif;VIII.A.I
+66514;Redressement des récupérations des remboursements d'emprunts;Passif;VIII.A.I
+66554;Redressement des remboursements de crédits;Passif;VIII.A.I
+66621;Dotations aux provisions pour risques et charges;Passif;VIII.A.I
+66622;Utilisation des provisions pour risques et charges;Passif;VIII.A.I
+66780;Dotations aux amortissements des subsides d'investissement a;Passif;VIII.A.I
+67100;Charges exceptionnelles du service ordinaire;Passif;VIII.A.I
+67111;Non-valeurs de créances du service ordinaire;Passif;VIII.A.I
+67151;Petits dédommagements;Passif;VIII.A.I
+67212;Non-valeurs de créances du service extraordinaire;Passif;VIII.A.I
+67241;Moins-values sur réalisation d'actif de l'immobilisé;Passif;VIII.A.I
+67251;Dédommagement exceptionnel;Passif;VIII.A.I
+67261;Cotisat. uniques aux entrepr. privées et primes d'assurances;Passif;VIII.A.I
+67311;Moins-values exceptionnelles;Passif;VIII.A.I
+67361;Dotation exceptionnelle aux amortissements sur immobilisés;Passif;VIII.A.I
+67371;Dotations aux réductions exceptionnelles de valeur des immob;Passif;VIII.A.I
+67391;Charges diverses exceptionnelles;Passif;VIII.A.I
+68504;Dotations du service ordinaire au fonds de réserve ordinaire;Passif;VIII.A.I
+68505;Dotations du service ordinaire au fonds de réserve extra.;Passif;VIII.A.I
+68605;Dotation du service extraordinaire au fonds de réserv. extra;Passif;VIII.A.I
+69201;Boni d'exploitation de l'exercice à reporter;Passif;VIII.A.I
+69202;Boni exceptionnel de l'exercice à reporter;Passif;VIII.A.I
+70110;Taxes communales sur prestations administratives;Passif;VIII.A.I
+70120;Taxes communales de remboursement;Passif;VIII.A.I
+70130;Taxes communales sur les prestations d'hygiène publique;Passif;VIII.A.I
+70140;Taxes com. entrepr. industrielles, commerciales et agricoles;Passif;VIII.A.I
+70150;Taxes communales sur les spectacles et divertissements;Passif;VIII.A.I
+70160;Taxes communales sur l'occupation du domaine public;Passif;VIII.A.I
+70170;Taxes communales sur le patrimoine;Passif;VIII.A.I
+70190;Autres taxes communales;Passif;VIII.A.I
+70710;Taxes communales additionnelles au précompte immobilier;Passif;VIII.A.I
+70720;Taxes com. additionnelles à l'impôt des personnes physiques;Passif;VIII.A.I
+70730;Taxes com. additionnelles à taxe sur véhicules à moteur;Passif;VIII.A.I
+70790;Autres taxes additionnelles;Passif;VIII.A.I
+70910;Amendes;Passif;VIII.A.I
+71301;Produits des prestations effectuées;Passif;VIII.A.I
+71302;Produits de la vente des biens;Passif;VIII.A.I
+71304;Produits des concessions et droits;Passif;VIII.A.I
+71309;Produits divers;Passif;VIII.A.I
+71320;Produits des locations immobilières;Passif;VIII.A.I
+71360;Produits de la vente de bois;Passif;VIII.A.I
+72111;Contrib. des entr. et A.S.B.L dans charge de trait. du pers.;Passif;VIII.A.I
+72141;Contrib. de l'Aut. sup. dans charges de trait. du pers.;Passif;VIII.A.I
+72161;Contrib. des autres pouvoirs pub. dans charges du pers.;Passif;VIII.A.I
+72401;Produits de la cotisation pension des mandataires;Passif;VIII.A.I
+73300;Dons manuels reçus;Passif;VIII.A.I
+73401;Subsides de l'Aut. sup. pour traitements des enseignants;Passif;VIII.A.I
+73403;Subsides dl'Aut. sup. pour frais de fonct. de l'enseignement;Passif;VIII.A.I
+73405;Subsides de l'autorité supérieure à des fins spécifiques;Passif;VIII.A.I
+73406;Fonds des communes et fonds spéciaux;Passif;VIII.A.I
+73611;Subs. des autres P.P. pour trait. et pensions enseignants;Passif;VIII.A.I
+73619;Contrib. aux frais d'exploit. divers reçues des Pouv. Public;Passif;VIII.A.I
+74143;Récup. des remboursements d'emprunts à charge de l’Aut. sup.;Passif;VIII.A.I
+74213;Récupération des remboursements d'emprunts à charge de tiers;Passif;VIII.A.I
+74303;Récupération des remboursements d'emprunts garantis;Passif;VIII.A.I
+74515;Remboursement des prêts accordés aux entreprises;Passif;VIII.A.I
+74525;Remboursement des prêts accordés aux ménages et ASBL;Passif;VIII.A.I
+74545;Remboursement des prêts accordés à l'autorité supérieure;Passif;VIII.A.I
+74565;Remb. périodique par les autres P.P. des prêts accordés;Passif;VIII.A.I
+75144;Récup. ch. fin. des emprunts à charge de l'Aut. supérieure;Passif;VIII.A.I
+75214;Récup. des charges financ. des emprunts à charge des tiers;Passif;VIII.A.I
+75304;Récup. charges financ. emprunts payées en appel de garantie;Passif;VIII.A.I
+75404;Ristournes d'intérêts d'emprunts;Passif;VIII.A.I
+75504;Intérêts des prêts à plus d'un an;Passif;VIII.A.I
+75711;Revenus de participations dans des entreprises;Passif;VIII.A.I
+75721;Revenus de titres de placements;Passif;VIII.A.I
+75726;Bénéfices de change;Passif;VIII.A.I
+75781;Intérêts de retard sur créances;Passif;VIII.A.I
+75782;Rentes viagères et perpétuelles;Passif;VIII.A.I
+75783;Annuités de dommages de guerre 1914-1918;Passif;VIII.A.I
+75788;Intérêts créditeurs sur comptes bancaires;Passif;VIII.A.I
+76120;Plus-values annuelles sur biens immobiliers;Passif;VIII.A.I
+76400;Variation des stocks : augmentation;Passif;VIII.A.I
+76511;Redressement du remb. d'emprunts à charge de la commune;Passif;VIII.A.I
+76514;Redressement du remboursement d'emprunts à charge de l'AS;Passif;VIII.A.I
+76529;Redressement du remboursement d'emprunts à charge de tiers;Passif;VIII.A.I
+76542;Redressement du remboursement d'emprunts en location financ.;Passif;VIII.A.I
+76561;Redressement du remboursement d'emprunts publics;Passif;VIII.A.I
+76780;Réduction des subsides d'investissement, de dons et de legs ;Passif;VIII.A.I
+76900;Travaux internes passés aux immobilisés;Passif;VIII.A.I
+77100;Produits exceptionnels du service ordinaire;Passif;VIII.A.I
+77111;Reprise de provisions pour risques et charges;Passif;VIII.A.I
+77200;Produits exceptionnels du service extraordinaire;Passif;VIII.A.I
+77241;Plus-values sur réalisations d'actifs immobilisés;Passif;VIII.A.I
+77251;Dédommagements extraordinaires de tiers pour biens communaux;Passif;VIII.A.I
+77261;Indemnité unique de droit réel d'emphytéose ou de superficie;Passif;VIII.A.I
+77311;Plus-values exceptionnelles;Passif;VIII.A.I
+77361;Réduction exceptionnelle des subsides d'investissement;Passif;VIII.A.I
+77371;Plus-value exceptionnelle des biens immob. (rééval. except.);Passif;VIII.A.I
+77391;Produits exceptionnels divers;Passif;VIII.A.I
+78504;Prélèv. sur fd. de réserv. ord. en faveur du serv. ord.;Passif;VIII.A.I
+78605;Prélèv. sur le fd de réserv. extra. en faveur du serv. extra;Passif;VIII.A.I
+79201;Mali d'exploitation à reporter;Passif;VIII.A.I
+79202;Mali exceptionnel à reporter;Passif;VIII.A.I

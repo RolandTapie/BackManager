@@ -3,15 +3,34 @@ package com.talla.backmanager.Services.Imports.Budgetaire;
 
 import com.talla.backmanager.Entites.Budgetaire.*;
 import com.talla.backmanager.Repositories.Budgetaire.*;
+import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
 
+@Service
 public class ImportArticle {
 
-    public static void Execution(ArticleRepository articleRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository, ExerciceRepository exerciceRepository, ProjetRepository projetRepository, DepartementRepository departementRepository) throws FileNotFoundException {
+    private  String SOURCE="C:\\Users\\Liege\\IdeaProjects\\BackManager\\src\\main\\java\\com\\talla\\backmanager\\Zfiles\\articles.txt";
+    private final ArticleRepository articleRepository;
+    private final  FonctionRepository fonctionRepository;
+    private final  EconomiqueRepository economiqueRepository;
+    private final  ExerciceRepository exerciceRepository;
+    private final ProjetRepository projetRepository;
+    private final DepartementRepository departementRepository;
+
+    public ImportArticle(ArticleRepository articleRepository, FonctionRepository fonctionRepository, EconomiqueRepository economiqueRepository, ExerciceRepository exerciceRepository, ProjetRepository projetRepository, DepartementRepository departementRepository) {
+        this.articleRepository = articleRepository;
+        this.fonctionRepository = fonctionRepository;
+        this.economiqueRepository = economiqueRepository;
+        this.exerciceRepository = exerciceRepository;
+        this.projetRepository = projetRepository;
+        this.departementRepository = departementRepository;
+    }
+
+    public  String Execution() throws FileNotFoundException {
         List<Fonction> fonction;
         List<Economique> economique;
         Exercice exercice;
@@ -24,7 +43,10 @@ public class ImportArticle {
         String ldepartement="";
         String lprojet="";
         String allocation="";
-        Scanner scan = new Scanner(new File("ZFiles/articles.txt"));
+        Scanner scan = new Scanner(new File(SOURCE));
+        if (!scan.hasNextLine())
+            return "fichier vide";
+
         String ligne=scan.nextLine();
 
         while (scan.hasNextLine()) {
@@ -53,5 +75,7 @@ public class ImportArticle {
 
             ligne=scan.nextLine();
         }
+
+        return "OK";
     }
 }

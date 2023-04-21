@@ -1,0 +1,104 @@
+;;AHKIM;Jamal;Rue Haute 0070;4000;LIEGE;Belgique;AHKIMJamal@gmail.com;Rue Haute 0070;4000;LIEGE;Belgique;BE71 7765 9931 1769
+;;AIT LARBI;Lahcen;Avenue Georges-Truffaut 0030 Bte 0009;4020;LIEGE;Belgique;AIT LARBILahcen@gmail.com;Avenue Georges-Truffaut 0030 Bte 0009;4020;LIEGE;Belgique;FR26 4003 1000 0100 0013 7324 P79
+;;ALEXANDRE;Gaston;Avenue Joseph Lemaire 0106;4300;WAREMME;Belgique;ALEXANDREGaston@gmail.com;Avenue Joseph Lemaire 0106;4300;WAREMME;Belgique;BE23 6790 0009 6491
+;;ALVAREZ LEMPEREUR;Christophe;Rue Profondval 0042;4400;FLEMALLE;Belgique;ALVAREZ LEMPEREURChristophe@gmail.com;Rue Profondval 0042;4400;FLEMALLE;Belgique;BE23 6790 0009 6491
+;;ANDRISI;Annie;Rue D'Abhooz 0027;4683;OUPEYE;Belgique;ANDRISIAnnie@gmail.com;Rue D'Abhooz 0027;4683;OUPEYE;Belgique;BE23 6790 0009 6491
+;;BAH;Moussa;Avenue Jean-Hans 0094;4030;LIEGE;Belgique;BAHMoussa@gmail.com;Avenue Jean-Hans 0094;4030;LIEGE;Belgique;FR76 1680 7001 5131 2112 4119 438
+;;BAL;Jonathan;Rue De Serbie 0099 Bte 0031;4000;LIEGE;Belgique;BALJonathan@gmail.com;Rue De Serbie 0099 Bte 0031;4000;LIEGE;Belgique;FR76 1680 7001 5131 2112 4119 438
+;;BARRY;Mariama;Rue Stappers 0016 Bte 0011;4020;LIEGE;Belgique;BARRYMariama@gmail.com;Rue Stappers 0016 Bte 0011;4020;LIEGE;Belgique;BE91 7765 9705 2376
+;;BECHOUX;Philippe;Rue Albert-Mockel 0005 Bte 0011;4000;LIEGE;Belgique;BECHOUXPhilippe@gmail.com;Rue Albert-Mockel 0005 Bte 0011;4000;LIEGE;Belgique;BE43 0637 3320 9901
+;;BERTHO;Cecile;Rue De Bois-De-Breux 0351;4020;LIEGE;Belgique;BERTHOCecile@gmail.com;Rue De Bois-De-Breux 0351;4020;LIEGE;Belgique;BE10 2400 2703 3904
+;;BILLA;Vickie;Rue Saint-Gilles 0347 Bte 0052;4000;LIEGE;Belgique;BILLAVickie@gmail.com;Rue Saint-Gilles 0347 Bte 0052;4000;LIEGE;Belgique;BE10 2400 2703 3904
+;;BOCKIAU;Stephane;Rue De Kinkempois 0019;4031;LIEGE;Belgique;BOCKIAUStephane@gmail.com;Rue De Kinkempois 0019;4031;LIEGE;Belgique;BE46 7925 3696 1336
+;;BOUHON;Isabelle;Clos Des Messes 0004;4500;HUY;Belgique;BOUHONIsabelle@gmail.com;Clos Des Messes 0004;4500;HUY;Belgique;BE17 0631 0339 0921
+;;BOUILLON;Nathalie;Rue Colompre 0078;4020;LIEGE;Belgique;BOUILLONNathalie@gmail.com;Rue Colompre 0078;4020;LIEGE;Belgique;BE06 7765 9689 1722
+;;BOURDOUX;Rene;Rue Du Pre-Bolet 0016;4020;LIEGE;Belgique;BOURDOUXRene@gmail.com;Rue Du Pre-Bolet 0016;4020;LIEGE;Belgique;BE16 3100 2167 8374
+;;BRAEKEN;Edith;Les Terrasses 0003 Bte 0001;4880;AUBEL;Belgique;BRAEKENEdith@gmail.com;Les Terrasses 0003 Bte 0001;4880;AUBEL;Belgique;BE08 3632 1169 0113
+;;BREMS;Laetitia;Rue Lecharlier 0008;4041;HERSTAL;Belgique;BREMSLaetitia@gmail.com;Rue Lecharlier 0008;4041;HERSTAL;Belgique;BE52 3630 1584 6709
+;;BRETTEVILLE;Karine;Rue De Chenee 0012;4031;LIEGE;Belgique;BRETTEVILLEKarine@gmail.com;Rue De Chenee 0012;4031;LIEGE;Belgique;BE14 0910 0043 2283
+;;CARDOSO SOTERO;Maria Da C.;Rue Haute-Wez 0085;4030;LIEGE;Belgique;CARDOSO SOTEROMaria Da C.@gmail.com;Rue Haute-Wez 0085;4030;LIEGE;Belgique;BE14 0910 0043 2283
+;;CAUFFMAN;Marie Claire;Rue Freson 0002;4130;ESNEUX;Belgique;CAUFFMANMarie Claire@gmail.com;Rue Freson 0002;4130;ESNEUX;Belgique;BE14 0910 0043 2283
+;;CAUWENBERGH;Gaetan;Rue Haut Vinave 0020;4682;OUPEYE;Belgique;CAUWENBERGHGaetan@gmail.com;Rue Haut Vinave 0020;4682;OUPEYE;Belgique;FR61 4003 1000 0100 0045 3783 S05
+;;CHORA MENDES;Fifi;Rue Gilles-Galler 0056;4000;LIEGE;Belgique;CHORA MENDESFifi@gmail.com;Rue Gilles-Galler 0056;4000;LIEGE;Belgique;BE45 3631 8128 8289
+;;CLAESSENS;Alisson;Rue Germinal 0047;4460;GRACE-HOLLOGNE;Belgique;CLAESSENSAlisson@gmail.com;Rue Germinal 0047;4460;GRACE-HOLLOGNE;Belgique;BE98 6304 1827 7193
+;;COLSON;Henri;Rue Belleflamme 0008;4030;LIEGE;Belgique;COLSONHenri@gmail.com;Rue Belleflamme 0008;4030;LIEGE;Belgique;BE14 6300 7638 9983
+;;COROMBELLE;Beatrice;Rue Des Wallons 0121 Bte 0001;4000;LIEGE;Belgique;COROMBELLEBeatrice@gmail.com;Rue Des Wallons 0121 Bte 0001;4000;LIEGE;Belgique;BE14 6300 7638 9983
+;;D'ALPAOS;Fabienne;Rue Valles 0012;4101;SERAING;Belgique;D'ALPAOSFabienne@gmail.com;Rue Valles 0012;4101;SERAING;Belgique;BE57 3632 1773 5435
+;;DE SOTTO MAYOR;Didier;Rue Saint-Gilles 0107;4000;LIEGE;Belgique;DE SOTTO MAYORDidier@gmail.com;Rue Saint-Gilles 0107;4000;LIEGE;Belgique;BE54 6300 8008 7097
+;;DEFLANDRE;Dominique;Avenue Des Tilleuls 0026 Bte 0022;4000;LIEGE;Belgique;DEFLANDREDominique@gmail.com;Avenue Des Tilleuls 0026 Bte 0022;4000;LIEGE;Belgique;BE48 6300 8026 4327
+;;DEFOURNY;Sabine;Vise Voie 0586;4041;HERSTAL;Belgique;DEFOURNYSabine@gmail.com;Vise Voie 0586;4041;HERSTAL;Belgique;BE67 2400 2753 6987
+;;DELCOURT;Veronique;Rue Des Courteaux 0052;4032;LIEGE;Belgique;DELCOURTVeronique@gmail.com;Rue Des Courteaux 0052;4032;LIEGE;Belgique;BE80 0682 3473 5377
+;;DELCOURT;Veronique;Rue Des Courteaux 0052;4032;LIEGE;Belgique;DELCOURTVeronique@gmail.com;Rue Des Courteaux 0052;4032;LIEGE;Belgique;BE83 6300 7672 2615
+;;DENOEL;Paul;Large-Voie 0067;4020;LIEGE;Belgique;DENOELPaul@gmail.com;Large-Voie 0067;4020;LIEGE;Belgique;FR76 1240 6000 0100 1731 0680 433
+;;DETHIER;Yolande;Rue Lamarck 0078 Bte 0021;4000;LIEGE;Belgique;DETHIERYolande@gmail.com;Rue Lamarck 0078 Bte 0021;4000;LIEGE;Belgique;NL28 ABNA 0619 2750 22
+;;DEVILLERS;Patricia;Rue Grededar 0017;4432;ANS;Belgique;DEVILLERSPatricia@gmail.com;Rue Grededar 0017;4432;ANS;Belgique;BE86 3631 8636 7150
+;;DIALUNGANA;Esperanca;Rue Theodore-Cuitte 0026;4020;LIEGE;Belgique;DIALUNGANAEsperanca@gmail.com;Rue Theodore-Cuitte 0026;4020;LIEGE;Belgique;BE67 2400 2753 6987
+;;DIGNEFFE;Jeannine;Rue Fonet 0006 Bte 000A;4218;HERON;Belgique;DIGNEFFEJeannine@gmail.com;Rue Fonet 0006 Bte 000A;4218;HERON;Belgique;BE67 2400 2753 6987
+;;DODET;Christine;Quai Du Condroz 0021 Bte 0021;4020;LIEGE;Belgique;DODETChristine@gmail.com;Quai Du Condroz 0021 Bte 0021;4020;LIEGE;Belgique;BE27 3631 9350 8673
+;;DUPONT;Eric;Impasse Gerard 0009;4030;LIEGE;Belgique;DUPONTEric@gmail.com;Impasse Gerard 0009;4030;LIEGE;Belgique;BE27 3631 9350 8673
+;;DUSSART;Arlette;Rue Jacques Brel 0028;4030;LIEGE;Belgique;DUSSARTArlette@gmail.com;Rue Jacques Brel 0028;4030;LIEGE;Belgique;BE27 3631 9350 8673
+;;EL OMARI;Sakina;Rue Des Xviii Bonniers 0055;4460;GRACE-HOLLOGNE;Belgique;EL OMARISakina@gmail.com;Rue Des Xviii Bonniers 0055;4460;GRACE-HOLLOGNE;Belgique;BE27 3631 9350 8673
+;;FATTORE;Giuseppina;Rue De L'Ermitage 0017;4000;LIEGE;Belgique;FATTOREGiuseppina@gmail.com;Rue De L'Ermitage 0017;4000;LIEGE;Belgique;BE40 3631 0698 3663
+;;FELICETTI;Linda;Rue Sainte-Julienne 0059;4020;LIEGE;Belgique;FELICETTILinda@gmail.com;Rue Sainte-Julienne 0059;4020;LIEGE;Belgique;BE89 0637 2458 5385
+;;FERMONT;Marc;Rue Des Maraichers 0128 Bte 0001;4020;LIEGE;Belgique;FERMONTMarc@gmail.com;Rue Des Maraichers 0128 Bte 0001;4020;LIEGE;Belgique;BE13 1030 7824 7039
+;;FERNANDEZ ABAL;Maria-Obdulia;Rue Cheri 0040 Bte B001;4000;LIEGE;Belgique;FERNANDEZ ABALMaria-Obdulia@gmail.com;Rue Cheri 0040 Bte B001;4000;LIEGE;Belgique;BE79 0012 6240 0133
+;;FETRO;Christian;Rue Vaudree 0131 Bte 0001;4031;LIEGE;Belgique;FETROChristian@gmail.com;Rue Vaudree 0131 Bte 0001;4031;LIEGE;Belgique;BE09 2900 2108 1757
+;;FOFANA;Ahmed Sheku;Rue Sainte-Marguerite 0133 Bte 0011;4000;LIEGE;Belgique;FOFANAAhmed Sheku@gmail.com;Rue Sainte-Marguerite 0133 Bte 0011;4000;LIEGE;Belgique;BE04 0017 8488 0731
+;;FRANCOEUR;Jeanne;Place Marcel-Lonay 0003 Bte 0016;4000;LIEGE;Belgique;FRANCOEURJeanne@gmail.com;Place Marcel-Lonay 0003 Bte 0016;4000;LIEGE;Belgique;BE23 6304 1518 2691
+;;GASPARD;Francine;Rue Fond-De-Coy 0004;4020;LIEGE;Belgique;GASPARDFrancine@gmail.com;Rue Fond-De-Coy 0004;4020;LIEGE;Belgique;BE94 7320 3511 0314
+;;GELO SIGNORINO;Sandrine;Rue Du Benelux 0028;4030;LIEGE;Belgique;GELO SIGNORINOSandrine@gmail.com;Rue Du Benelux 0028;4030;LIEGE;Belgique;BE94 7320 3511 0314
+;;GODIMUS;Samuel;Rue De Fayenster 0020;4020;LIEGE;Belgique;GODIMUSSamuel@gmail.com;Rue De Fayenster 0020;4020;LIEGE;Belgique;BE30 0001 3873 0511
+;;HAAN;Francoise;Rue Sous-Le-Bois 0001;4430;ANS;Belgique;HAANFrancoise@gmail.com;Rue Sous-Le-Bois 0001;4430;ANS;Belgique;BE30 0014 4487 4311
+;;HASTERT;Annick;Place Des Fusilles 0022;4420;SAINT-NICOLAS;Belgique;HASTERTAnnick@gmail.com;Place Des Fusilles 0022;4420;SAINT-NICOLAS;Belgique;BE80 0000 9382 6177
+;;HUTOIS;Sabine;Rue Des Pocheteux 0036;4020;LIEGE;Belgique;HUTOISSabine@gmail.com;Rue Des Pocheteux 0036;4020;LIEGE;Belgique;BE93 2400 9300 9967
+;;HYSENI;Arthur;Quai Churchill 0006 Bte B011;4020;LIEGE;Belgique;HYSENIArthur@gmail.com;Quai Churchill 0006 Bte B011;4020;LIEGE;Belgique;FR66 4003 1000 0100 0011 7763 C71
+;;JOAQUIM;Luvungu Soki;Boulevard Gustave-Kleyer 0001 Bte F001;4000;LIEGE;Belgique;JOAQUIMLuvungu Soki@gmail.com;Boulevard Gustave-Kleyer 0001 Bte F001;4000;LIEGE;Belgique;FR72 4003 1000 0100 0011 9184 X12
+;;KHELIL;Djamila;Chaussee Brunehaut 0068;4452;JUPRELLE;Belgique;KHELILDjamila@gmail.com;Chaussee Brunehaut 0068;4452;JUPRELLE;Belgique;FR72 4003 1000 0100 0011 9184 X12
+;;KOLACZYNSKI;Therese;Rue Leonard-Terry 0001 Bte 0001;4000;LIEGE;Belgique;KOLACZYNSKITherese@gmail.com;Rue Leonard-Terry 0001 Bte 0001;4000;LIEGE;Belgique;BE26 2400 6263 5429
+;;KOUAME;Etche Ines;Rue Francois 0031;4100;SERAING;Belgique;KOUAMEEtche Ines@gmail.com;Rue Francois 0031;4100;SERAING;Belgique;BE26 2400 6263 5429
+;;KRANSFELD;Alison;Rue Des Prebendiers 0002;4020;LIEGE;Belgique;KRANSFELDAlison@gmail.com;Rue Des Prebendiers 0002;4020;LIEGE;Belgique;BE71 6300 4427 1869
+;;LECART;Catherine;Rue De La Haminde 0034;4030;LIEGE;Belgique;LECARTCatherine@gmail.com;Rue De La Haminde 0034;4030;LIEGE;Belgique;BE52 3631 1991 8009
+;;LECHANTEUR;Claudine;Rue De La Commune 0135;4101;SERAING;Belgique;LECHANTEURClaudine@gmail.com;Rue De La Commune 0135;4101;SERAING;Belgique;BE22 2100 9185 8547
+;;LHOEST;Francoise;Quai Paul-Van-Hoegaerden 0002 Bte 0141;4000;LIEGE;Belgique;LHOESTFrancoise@gmail.com;Quai Paul-Van-Hoegaerden 0002 Bte 0141;4000;LIEGE;Belgique;BE32 0637 1305 3402
+;;LIBER;Jacques;Rue Ernest-Solvay 0281 Bte 0021;4000;LIEGE;Belgique;LIBERJacques@gmail.com;Rue Ernest-Solvay 0281 Bte 0021;4000;LIEGE;Belgique;FR51 4003 1000 0100 0011 8152 A47
+;;LO MANTO;Maddalena;Rue Renardi 0265;4000;LIEGE;Belgique;LO MANTOMaddalena@gmail.com;Rue Renardi 0265;4000;LIEGE;Belgique;FR18 4003 1000 0100 0017 6781 C72
+;;LONDO BALINGA;Bienvenu;Rue De Horion 0020;4460;GRACE-HOLLOGNE;Belgique;LONDO BALINGABienvenu@gmail.com;Rue De Horion 0020;4460;GRACE-HOLLOGNE;Belgique;BE14 6300 7638 9983
+;;LUSSADISSU;Claudelie Nsenga;Rue De Porto 0180;4020;LIEGE;Belgique;LUSSADISSUClaudelie Nsenga@gmail.com;Rue De Porto 0180;4020;LIEGE;Belgique;BE79 6301 2661 1533
+;;MADHLOUM;Alaa Jasim;Cour Du Val 0041 Bte 0002;4100;SERAING;Belgique;MADHLOUMAlaa Jasim@gmail.com;Cour Du Val 0041 Bte 0002;4100;SERAING;Belgique;BE07 3400 3402 0766
+;;MANUXO MARIANO;Nzainao;Rue General-De-Gaulle 0074 Bte 0054;4020;LIEGE;Belgique;MANUXO MARIANONzainao@gmail.com;Rue General-De-Gaulle 0074 Bte 0054;4020;LIEGE;Belgique;PT50 0193 0000 1050 3467 9947 9
+;;MARINO;Michele;Rue Des Prebendiers 0001 Bte 0041;4020;LIEGE;Belgique;MARINOMichele@gmail.com;Rue Des Prebendiers 0001 Bte 0041;4020;LIEGE;Belgique;BE94 7320 3511 0314
+;;MASINI;Marc;Rue De Tilleur 0446;4420;SAINT-NICOLAS;Belgique;MASINIMarc@gmail.com;Rue De Tilleur 0446;4420;SAINT-NICOLAS;Belgique;BE94 7320 3511 0314
+;;MBUNGU LELO;Charlotte;Decede(E);;;Belgique;MBUNGU LELOCharlotte@gmail.com;Decede(E);;;Belgique;BE27 3631 9350 8673
+;;MEURICE;Margot;Rue Leon-Fredericq 0012 Bte 0011;4020;LIEGE;Belgique;MEURICEMargot@gmail.com;Rue Leon-Fredericq 0012 Bte 0011;4020;LIEGE;Belgique;BE27 3631 9350 8673
+;;MOTTARD;Viviane;Rue De La Baume 0222;4100;SERAING;Belgique;MOTTARDViviane@gmail.com;Rue De La Baume 0222;4100;SERAING;Belgique;FR76 1142 5002 0004 0514 8933 061
+;;NARDELLI;Gian-Paolo;Quai De La Boverie 0005;4020;LIEGE;Belgique;NARDELLIGian-Paolo@gmail.com;Quai De La Boverie 0005;4020;LIEGE;Belgique;
+;;NDOMBE BOYA;Valentine;Cite Du Moulin 0023 Bte 0005;4000;LIEGE;Belgique;NDOMBE BOYAValentine@gmail.com;Cite Du Moulin 0023 Bte 0005;4000;LIEGE;Belgique;
+;;NDONA;Mayewa;Rue Emile Tilman 0034;4040;HERSTAL;Belgique;NDONAMayewa@gmail.com;Rue Emile Tilman 0034;4040;HERSTAL;Belgique;
+;;NSIMBA KINKANI;Lilie;Place Des Casemates 0001 Bte 0009;4620;FLERON;Belgique;NSIMBA KINKANILilie@gmail.com;Place Des Casemates 0001 Bte 0009;4620;FLERON;Belgique;
+;;NZEMBO BELOBI;Prisca;Rue De Hesbaye 0147 Bte 0032;4000;LIEGE;Belgique;NZEMBO BELOBIPrisca@gmail.com;Rue De Hesbaye 0147 Bte 0032;4000;LIEGE;Belgique;
+;;OUERGHI;Anouar;Avenue De L'Europe 0011 Bte 0002;4040;HERSTAL;Belgique;OUERGHIAnouar@gmail.com;Avenue De L'Europe 0011 Bte 0002;4040;HERSTAL;Belgique;
+;;PARLAGRECO ;Floriana;Rue Oltremont 0094;4420;SAINT-NICOLAS;Belgique;PARLAGRECO Floriana@gmail.com;Rue Oltremont 0094;4420;SAINT-NICOLAS;Belgique;
+;;PATONIS;Eugénie;Rue Walthere-Hannay 0033;4000;LIEGE;Belgique;PATONISEugénie@gmail.com;Rue Walthere-Hannay 0033;4000;LIEGE;Belgique;
+;;PAYE;Chantal;Quai De L'Ourthe 0010;4130;ESNEUX;Belgique;PAYEChantal@gmail.com;Quai De L'Ourthe 0010;4130;ESNEUX;Belgique;
+;;PIETTE;Joelle;Rue Du Haut-Pre 0014 Bte 0001;4000;LIEGE;Belgique;PIETTEJoelle@gmail.com;Rue Du Haut-Pre 0014 Bte 0001;4000;LIEGE;Belgique;
+;;PIRON;Jean-Claude;Rue Du Presbytere 0017;4032;LIEGE;Belgique;PIRONJean-Claude@gmail.com;Rue Du Presbytere 0017;4032;LIEGE;Belgique;
+;;PISCITELLO;Rosario;Rue Sur-Les-Pleins 0040;4020;LIEGE;Belgique;PISCITELLORosario@gmail.com;Rue Sur-Les-Pleins 0040;4020;LIEGE;Belgique;
+;;RASQUIN;Sandrine;Rue De L'Ancienne-Ecole 0040;4030;LIEGE;Belgique;RASQUINSandrine@gmail.com;Rue De L'Ancienne-Ecole 0040;4030;LIEGE;Belgique;
+;;SCARANO;Julie;Rue Voie Des Vaux 0168;4420;SAINT-NICOLAS;Belgique;SCARANOJulie@gmail.com;Rue Voie Des Vaux 0168;4420;SAINT-NICOLAS;Belgique;
+;;SCIGALA;Didier;Cite Aulichamps 0010;4460;GRACE-HOLLOGNE;Belgique;SCIGALADidier@gmail.com;Cite Aulichamps 0010;4460;GRACE-HOLLOGNE;Belgique;
+;;SOUDON;Didier;Rue Du Ruisseau 0007;4000;LIEGE;Belgique;SOUDONDidier@gmail.com;Rue Du Ruisseau 0007;4000;LIEGE;Belgique;
+;;SOUDON;Ludovic;Rue Du Vertbois 0088;4000;LIEGE;Belgique;SOUDONLudovic@gmail.com;Rue Du Vertbois 0088;4000;LIEGE;Belgique;
+;;STEGEN;Pierre;Rue Des Anges 0029 Bte 0021;4000;LIEGE;Belgique;STEGENPierre@gmail.com;Rue Des Anges 0029 Bte 0021;4000;LIEGE;Belgique;
+;;STIENEN;Nathalie;Rue Verte 0124;4100;SERAING;Belgique;STIENENNathalie@gmail.com;Rue Verte 0124;4100;SERAING;Belgique;
+;;SUSIN;Laurent;Avenue Celestin Demblon 0071;4432;ANS;Belgique;SUSINLaurent@gmail.com;Avenue Celestin Demblon 0071;4432;ANS;Belgique;
+;;THONET;Pierrette;Clos Petrus-Stevartius 0002;4000;LIEGE;Belgique;THONETPierrette@gmail.com;Clos Petrus-Stevartius 0002;4000;LIEGE;Belgique;
+;;THYS;Pascal;Rue Neuville 0060;4020;LIEGE;Belgique;THYSPascal@gmail.com;Rue Neuville 0060;4020;LIEGE;Belgique;
+;;TICIC;Aida;Quai Saint-Leonard 0036 Bte E012;4000;LIEGE;Belgique;TICICAida@gmail.com;Quai Saint-Leonard 0036 Bte E012;4000;LIEGE;Belgique;
+;;TOLLET;Caroline;Place Du Saucy 0014 Bte 0001;4130;ESNEUX;Belgique;TOLLETCaroline@gmail.com;Place Du Saucy 0014 Bte 0001;4130;ESNEUX;Belgique;
+;;TRAN;Ngoc Hien;En Hurbise 0151;4040;HERSTAL;Belgique;TRANNgoc Hien@gmail.com;En Hurbise 0151;4040;HERSTAL;Belgique;
+;;VAN MULLEM;Andre;Chaussee Romaine(Om) 0033;4252;GEER;Belgique;VAN MULLEMAndre@gmail.com;Chaussee Romaine(Om) 0033;4252;GEER;Belgique;
+;;VERDOOLAEGE;Dominique;La Fange, Harre 0006;6960;MANHAY;Belgique;VERDOOLAEGEDominique@gmail.com;La Fange, Harre 0006;6960;MANHAY;Belgique;
+;;WOUTERS;Marie;Rue Pierreuse 0080;4000;LIEGE;Belgique;WOUTERSMarie@gmail.com;Rue Pierreuse 0080;4000;LIEGE;Belgique;
+;;WUIDART;Isabelle;Qu. Edouard-Van-Beneden 0008 Bte 0071;4020;LIEGE;Belgique;WUIDARTIsabelle@gmail.com;Qu. Edouard-Van-Beneden 0008 Bte 0071;4020;LIEGE;Belgique;
+;;YETKIN;Hülya;Rue Des Pres 0255;4020;LIEGE;Belgique;YETKINHülya@gmail.com;Rue Des Pres 0255;4020;LIEGE;Belgique;
+;;ZEMMOUR;Jamila;Rue Du Moulin 0199;4020;LIEGE;Belgique;ZEMMOURJamila@gmail.com;Rue Du Moulin 0199;4020;LIEGE;Belgique;
