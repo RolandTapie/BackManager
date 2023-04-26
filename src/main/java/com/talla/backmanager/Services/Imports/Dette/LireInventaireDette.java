@@ -52,6 +52,8 @@ public class LireInventaireDette implements ILireInventaireDette {
     }
 
     public String execution(String cheminDetteInventaire) {
+        this.nbEcheance = 0;
+        this.nbFichier = 0;
 
         String chemin = cheminDetteInventaire;
         File path = new File(chemin);

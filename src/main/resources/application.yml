@@ -1,15 +1,22 @@
 chemin:
   dette:
     inventaire: "C:/Users/Liege/Downloads/Inventaire"
+  coda:
+      inventaire: "C:/Users/Liege/Downloads/coda 2020 et 2021"
+
 spring:
   output:
     ansi:
       enabled: ALWAYS
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/microservicesdette
-    username: root
-    password: mysql
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/microservicesdette
+#    username: root
+#    password: mysql
+    url: jdbc:h2:mem:mydbdev
+    username: sa
+    password: sa
+    driverClassName: org.h2.Driver
   jpa:
     show-sql: false
     hibernate.ddl-auto: update

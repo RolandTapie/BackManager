@@ -1,8 +1,8 @@
 package com.talla.backmanager.Services.Service.FluxFinanciers.Interfaces;
 
 public interface ILectureCoda {
-    public  void ControleEtImport(String cheminCoda);
-    public  void ImportCoda(String cheminCoda);
+    public  void ControleEtImport();
+    public  void ImportCoda();
 
     int getNbligne();
     double getAmount();
